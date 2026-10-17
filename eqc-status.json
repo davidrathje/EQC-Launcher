@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "enabled": true,
+  "minVersion": "2.70",
+  "message": "",
+  "issued": "2026-10-17T14:15:09Z",
+  "seq": 1,
+  "latest": {
+    "companion": "2.70",
+    "client": "2.70"
+  },
+  "notes": "First test release.",
+  "assets": {
+    "companion-windows-x64": {
+      "url": "https://github.com/davidrathje/EQC-Companion/releases/download/v2.70/EQC-Setup-2.70.exe",
+      "sha256": "67206f502a1a71adf8cf3d5246a53afc5b95c675525c5e8537d67b3cd1c8a060",
+      "size": 44043306
+    },
+    "android": {
+      "url": "https://github.com/davidrathje/EQC-Companion/releases/download/v2.70/EQC-2.70.apk",
+      "sha256": "d3e1302ed6426e58f85ade90a98c0ffcc2b3f0d364fdea34cd5e31acd1c0dabc",
+      "size": 28133689
+    }
+  }
+}
+
