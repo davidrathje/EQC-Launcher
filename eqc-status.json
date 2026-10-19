@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-19T21:19:03Z",
-  "seq": 12,
+  "issued": "2026-10-19T22:34:56Z",
+  "seq": 13,
   "latest": {
-    "companion": "3.11",
-    "client": "3.11"
+    "companion": "3.12",
+    "client": "3.12"
   },
-  "notes": "EQC 3.11: Video Modes and other windows clickable again, iOS group invite buttons, Android scan kept across restarts.",
+  "notes": "EQC 3.12: disciplines fixed, touch looting, autorun while chatting, /tell shown in the chat line, first iOS desync fix, original item display.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.11/EQC-Launcher-Setup-3.11.exe",
-      "sha256": "4b50d9a43fea66c6acf72d00703fb36b5e8fdb3b038d39390d5a29058bb48310",
-      "size": 48757134
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.12/EQC-Launcher-Setup-3.12.exe",
+      "sha256": "94ac725bc1343b8658cc8aada75d9c4f573eadecdf984d779564531d154f54c6",
+      "size": 48733872
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.11/EQC-3.11.apk",
-      "sha256": "782e56d95c784f8000a6cc78b56b495e15c6736991b02196be789eda86bf4eb3",
-      "size": 30880153
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.12/EQC-3.12.apk",
+      "sha256": "f62bc173222bc529c08277d1933ead37b54fbe7388c148307a59ec466b01d932",
+      "size": 30902009
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
