@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-19T07:44:53Z",
-  "seq": 6,
+  "issued": "2026-10-19T12:19:11Z",
+  "seq": 7,
   "latest": {
-    "companion": "3.00",
-    "client": "3.00"
+    "companion": "3.04",
+    "client": "3.04"
   },
-  "notes": "EQC 3.00 (installer fix: no more \"RegisterExtraCloseApplicationsResource\" error when an older Launcher is installed)",
+  "notes": "EQC 3.04: browser relay fix, Hail, EQC Options tab with the original pages, original fonts, many reported fixes; macOS added",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.00/EQC-Launcher-Setup-3.00.exe",
-      "sha256": "2eb2bdcc6ee4029ec5270ccc0bdc2e8d0fdfc9c13f1dc32b80ccd9e481673aa5",
-      "size": 48544044
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.04/EQC-Launcher-Setup-3.04.exe",
+      "sha256": "deeebef331754b4b85f2222dcfe375dbfb45ef132622da24b22744ef35e43db1",
+      "size": 48659171
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.00/EQC-3.00.apk",
-      "sha256": "9e10ef3031214a3be2a89c03b1d3334d2ae629d2bfd415ca21ee394f9eb87a4c",
-      "size": 30005325
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.04/EQC-3.04.apk",
+      "sha256": "cae7aebbdc76bdc865ae68a4f0e18d46d91862033bcd35fb5f36754c4c2a7eac",
+      "size": 30493913
     }
   }
 }
