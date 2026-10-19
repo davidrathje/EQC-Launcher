@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-18T20:10:48Z",
-  "seq": 4,
+  "issued": "2026-10-19T05:35:15Z",
+  "seq": 5,
   "latest": {
-    "companion": "2.87",
-    "client": "2.87"
+    "companion": "3.00",
+    "client": "3.00"
   },
-  "notes": "Fixes logging in with freshly packed game files.",
+  "notes": "EQC 3.00: EQC Launcher rename, Transfer to phone progress, target nearest, browser keepalive, many parity fixes",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Companion/releases/download/v2.87/EQC-Setup-2.87.exe",
-      "sha256": "3bdbfd96d350d9745a088511e315738c71c8bf97054642a8801a12fd4ebecfc5",
-      "size": 44355251
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.00/EQC-Launcher-Setup-3.00.exe",
+      "sha256": "f37b0621b8fa36080116bd86c968996b933471df76a5fd930425da8cb34ba424",
+      "size": 48544065
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Companion/releases/download/android-v2.87/EQC-2.87.apk",
-      "sha256": "0f9bf80c6ce0e89f37e69fd3cc914f9c8b14e1acf84aed93b4c60ef2fbc277e2",
-      "size": 29432697
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.00/EQC-3.00.apk",
+      "sha256": "9e10ef3031214a3be2a89c03b1d3334d2ae629d2bfd415ca21ee394f9eb87a4c",
+      "size": 30005325
     }
   }
 }
