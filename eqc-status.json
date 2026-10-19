@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-19T17:10:35Z",
-  "seq": 9,
+  "issued": "2026-10-19T18:49:25Z",
+  "seq": 10,
   "latest": {
-    "companion": "3.07",
-    "client": "3.07"
+    "companion": "3.09",
+    "client": "3.09"
   },
-  "notes": "EQC 3.07: camp per the original, the phone transfer fixed (update both the Launcher and the app), Levitate under ground fixed.",
+  "notes": "EQC 3.09: item-safety fix (NO DROP never dropped), click routing to the front window, mouse-look with windows open.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.07/EQC-Launcher-Setup-3.07.exe",
-      "sha256": "443097cd8311eebd712537634cc16353d7c2bde92c198ddf9e53e16156489fef",
-      "size": 48709542
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.09/EQC-Launcher-Setup-3.09.exe",
+      "sha256": "c7ba5330c70eaaac70e0feec9b1973e3221d3f691aceacdc3d474d3ca72fcc8e",
+      "size": 48719622
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.07/EQC-3.07.apk",
-      "sha256": "a32998074bb92a5d6b2cd02aa08af07022ecc15dc45fb9caabb5ff446a573b6c",
-      "size": 30698077
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.09/EQC-3.09.apk",
+      "sha256": "5ed6f9e82b94ecf3a11b84beb3230927461a9ac40581996ffe5610abdf263b88",
+      "size": 30736317
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
