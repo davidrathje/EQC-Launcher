@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-19T18:49:25Z",
-  "seq": 10,
+  "issued": "2026-10-19T20:20:31Z",
+  "seq": 11,
   "latest": {
-    "companion": "3.09",
-    "client": "3.09"
+    "companion": "3.10",
+    "client": "3.10"
   },
-  "notes": "EQC 3.09: item-safety fix (NO DROP never dropped), click routing to the front window, mouse-look with windows open.",
+  "notes": "EQC 3.10: settings survive updates, separate bag windows, hotbutton drag, more item safety, creature placement and animation fixes.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.09/EQC-Launcher-Setup-3.09.exe",
-      "sha256": "c7ba5330c70eaaac70e0feec9b1973e3221d3f691aceacdc3d474d3ca72fcc8e",
-      "size": 48719622
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.10/EQC-Launcher-Setup-3.10.exe",
+      "sha256": "e81af1ee07018130a20f6e9d62e22f7da99f5d5efa6d2a111f2b825c77c97679",
+      "size": 48753247
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.09/EQC-3.09.apk",
-      "sha256": "5ed6f9e82b94ecf3a11b84beb3230927461a9ac40581996ffe5610abdf263b88",
-      "size": 30736317
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.10/EQC-3.10.apk",
+      "sha256": "2949374930ed62d6f9f5f6756fc09ebcf78e97b90d1b1d96339c50f8e0a309a5",
+      "size": 30841945
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
