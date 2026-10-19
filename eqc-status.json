@@ -3,18 +3,18 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-19T05:35:15Z",
-  "seq": 5,
+  "issued": "2026-10-19T07:44:53Z",
+  "seq": 6,
   "latest": {
     "companion": "3.00",
     "client": "3.00"
   },
-  "notes": "EQC 3.00: EQC Launcher rename, Transfer to phone progress, target nearest, browser keepalive, many parity fixes",
+  "notes": "EQC 3.00 (installer fix: no more \"RegisterExtraCloseApplicationsResource\" error when an older Launcher is installed)",
   "assets": {
     "companion-windows-x64": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.00/EQC-Launcher-Setup-3.00.exe",
-      "sha256": "f37b0621b8fa36080116bd86c968996b933471df76a5fd930425da8cb34ba424",
-      "size": 48544065
+      "sha256": "2eb2bdcc6ee4029ec5270ccc0bdc2e8d0fdfc9c13f1dc32b80ccd9e481673aa5",
+      "size": 48544044
     },
     "android": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.00/EQC-3.00.apk",
