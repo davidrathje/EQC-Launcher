@@ -3,13 +3,13 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-19T12:19:11Z",
-  "seq": 7,
+  "issued": "2026-10-19T14:58:58Z",
+  "seq": 8,
   "latest": {
     "companion": "3.04",
     "client": "3.04"
   },
-  "notes": "EQC 3.04: browser relay fix, Hail, EQC Options tab with the original pages, original fonts, many reported fixes; macOS added",
+  "notes": "EQC 3.04 (macOS added: Developer ID signed and notarised)",
   "assets": {
     "companion-windows-x64": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.04/EQC-Launcher-Setup-3.04.exe",
@@ -20,6 +20,11 @@
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.04/EQC-3.04.apk",
       "sha256": "cae7aebbdc76bdc865ae68a4f0e18d46d91862033bcd35fb5f36754c4c2a7eac",
       "size": 30493913
+    },
+    "companion-macos": {
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
+      "sha256": "3258d977157c7768b5a77a68ad5ca48072c57f14c85b7b3e3cf15d23d88ee2c4",
+      "size": 35489826
     }
   }
 }
