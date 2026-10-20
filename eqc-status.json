@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-19T23:50:29Z",
-  "seq": 14,
+  "issued": "2026-10-20T03:21:42Z",
+  "seq": 15,
   "latest": {
-    "companion": "3.13",
-    "client": "3.13"
+    "companion": "3.14",
+    "client": "3.14"
   },
-  "notes": "EQC 3.13: HT/LoH 10 s client lock, shared melee special timer, complete item display, original invite handling on desktop.",
+  "notes": "EQC 3.14: iOS desync and camp fixed, no more 111 after leaving select, trade safety for NO DROP bags, ability reuse shown, static phone joystick.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.13/EQC-Launcher-Setup-3.13.exe",
-      "sha256": "c568f69d40508e8cf549bc4f2103c7a273d208c00692ac77b6f780fd1511972c",
-      "size": 48740498
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.14/EQC-Launcher-Setup-3.14.exe",
+      "sha256": "925bee2588240e9954142f2b370809665f6f556235af74ecf31b98aede400702",
+      "size": 48748568
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.13/EQC-3.13.apk",
-      "sha256": "6130b05990c97a1f1bf1a40bf1056a63a9a6b17d606c78b63b3d865fc73984a2",
-      "size": 30934057
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.14/EQC-3.14.apk",
+      "sha256": "c9592fc611ca0da0e4ac2777e57ca13855e5b4eb02d744f0c641f51c86ed7773",
+      "size": 30989161
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
