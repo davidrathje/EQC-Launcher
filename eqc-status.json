@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-20T07:39:22Z",
-  "seq": 17,
+  "issued": "2026-10-20T11:22:07Z",
+  "seq": 18,
   "latest": {
-    "companion": "3.16",
-    "client": "3.16"
+    "companion": "3.17",
+    "client": "3.17"
   },
-  "notes": "EQC 3.16: one click rule for all clients, window menus, original gem fade, item cast bar, hidden NPCs, character creation.",
+  "notes": "EQC 3.17: original network behaviour, HT/LoH fix, disconnect screen, zone and camp fixes, Escape and invisibility like the original.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.16/EQC-Launcher-Setup-3.16.exe",
-      "sha256": "d65569b21d2a393bc825f06c33b7575fb5f3bc0b5881c7efdddacc4989844e3b",
-      "size": 48833918
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.17/EQC-Launcher-Setup-3.17.exe",
+      "sha256": "3235ca0af7a155888f2b4a6618b911a687aa3f640d1b67d28a3d2b2df7dfa1d9",
+      "size": 48851339
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.16/EQC-3.16.apk",
-      "sha256": "e4fbff9eb27ea65e06e275dff06942f836953b535b1e0423b8560c4ed4443b9d",
-      "size": 31335817
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.17/EQC-3.17.apk",
+      "sha256": "01e76845f4983a855a122ec1b11ca3d21e51ed680a60422697346ec694084deb",
+      "size": 31369337
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
