@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-24T20:55:47Z",
-  "seq": 26,
+  "issued": "2026-10-24T22:02:51Z",
+  "seq": 27,
   "latest": {
-    "companion": "3.40",
-    "client": "3.40"
+    "companion": "3.44",
+    "client": "3.44"
   },
-  "notes": "3.40: repack prompt, game-data check, backtick NPCs, zone-in/zone lines, boundary walls",
+  "notes": "3.44: grey login fix, install robustness, touch original screens, kill shot order, skins",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.40/EQC-Launcher-Setup-3.40.exe",
-      "sha256": "cfa696b399f4f1369174223d12d6b238b555bc9e1e1957ed56d5597117ec0a52",
-      "size": 48917916
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.44/EQC-Launcher-Setup-3.44.exe",
+      "sha256": "9da6c547457b417fadb09fc19fe6040a79313ecfb32e15f71661151135c9f1f8",
+      "size": 48900622
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.40/EQC-3.40.apk",
-      "sha256": "5517ebc81fdca3cb1cec40153072d7133492939737603b9831d5bdd071be3545",
-      "size": 31677293
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.44/EQC-3.44.apk",
+      "sha256": "3f69f49ce2de7ad9a6a864e203b6becdd8060e4af5168747fec15ce0ab93b722",
+      "size": 31711689
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
