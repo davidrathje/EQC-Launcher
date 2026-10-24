@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-20T16:26:43Z",
-  "seq": 19,
+  "issued": "2026-10-24T14:42:13Z",
+  "seq": 20,
   "latest": {
-    "companion": "3.18",
-    "client": "3.18"
+    "companion": "3.33",
+    "client": "3.33"
   },
-  "notes": "3.18: combat viewer wiring, netfix 2, movfix 1, sweep fixes",
+  "notes": "3.33: owner live bugs fixed (movement, combat, disciplines, windows, hotbar, login, phones)",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.18/EQC-Launcher-Setup-3.18.exe",
-      "sha256": "9b976ede3165425b770935fc2ed0a81eebbbc8ab862a75d0c0247eaff2e810c5",
-      "size": 48848524
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.33/EQC-Launcher-Setup-3.33.exe",
+      "sha256": "cab8c8571f8b765bc6ddca1330528cd3cb4c18d9ab3e3b76bcc6255cc810d883",
+      "size": 48884272
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.18/EQC-3.18.apk",
-      "sha256": "00ef2179c2b6230a6938d389b4b14c19e2d34e14909d4c170963a29802252ecc",
-      "size": 31396457
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.33/EQC-3.33.apk",
+      "sha256": "a3f8b20e1a3f7982aff9da4b6449ee988d1a3cae942fe2dab56a7e51eb7b01e1",
+      "size": 31567497
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
