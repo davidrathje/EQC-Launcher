@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "enabled": false,
+  "enabled": true,
   "minVersion": "2.73",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
   "issued": "2026-10-20T16:26:43Z",
