@@ -1,25 +1,25 @@
 {
   "v": 1,
   "enabled": true,
-  "minVersion": "2.73",
+  "minVersion": "3.45",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-24T22:02:51Z",
-  "seq": 27,
+  "issued": "2026-10-25T09:01:43Z",
+  "seq": 28,
   "latest": {
-    "companion": "3.44",
-    "client": "3.44"
+    "companion": "3.45",
+    "client": "3.45"
   },
-  "notes": "3.44: grey login fix, install robustness, touch original screens, kill shot order, skins",
+  "notes": "3.45: trades, stand on hit, fear, item display, loading screen, touch pregame and inventory, original frames and fonts. Repack (recipe 22) recommended.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.44/EQC-Launcher-Setup-3.44.exe",
-      "sha256": "9da6c547457b417fadb09fc19fe6040a79313ecfb32e15f71661151135c9f1f8",
-      "size": 48900622
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.45/EQC-Launcher-Setup-3.45.exe",
+      "sha256": "23befec30e780bf116101aac609a385d9cfbe0d7578fb4bb8a8dbe7d12a10c60",
+      "size": 49790338
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.44/EQC-3.44.apk",
-      "sha256": "3f69f49ce2de7ad9a6a864e203b6becdd8060e4af5168747fec15ce0ab93b722",
-      "size": 31711689
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.45/EQC-3.45.apk",
+      "sha256": "8d6bc7fee8b541709e36f432535aef1d1624a4a7daa7559210ac578e1e3fb09d",
+      "size": 34242891
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
