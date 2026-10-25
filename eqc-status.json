@@ -3,8 +3,8 @@
   "enabled": true,
   "minVersion": "3.04",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-25T09:02:34Z",
-  "seq": 30,
+  "issued": "2026-10-25T09:41:14Z",
+  "seq": 31,
   "latest": {
     "companion": "3.45",
     "client": "3.45"
@@ -22,9 +22,9 @@
       "size": 34242891
     },
     "companion-macos": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.04/EQC-Launcher-3.04-macos.dmg",
-      "sha256": "3258d977157c7768b5a77a68ad5ca48072c57f14c85b7b3e3cf15d23d88ee2c4",
-      "size": 35489826
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.45/EQC-Launcher-3.45-macos.dmg",
+      "sha256": "946c7d92c293ee3aa156b3f667480384911986f4be20d49486c3a0b823b69849",
+      "size": 40182518
     }
   }
 }
