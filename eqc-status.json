@@ -1,10 +1,10 @@
 {
   "v": 1,
   "enabled": true,
-  "minVersion": "3.04",
+  "minVersion": "3.45",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-25T09:41:14Z",
-  "seq": 31,
+  "issued": "2026-10-25T10:04:01Z",
+  "seq": 32,
   "latest": {
     "companion": "3.45",
     "client": "3.45"
@@ -13,8 +13,8 @@
   "assets": {
     "companion-windows-x64": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.45/EQC-Launcher-Setup-3.45.exe",
-      "sha256": "23befec30e780bf116101aac609a385d9cfbe0d7578fb4bb8a8dbe7d12a10c60",
-      "size": 49790338
+      "sha256": "cecedb773cee5410638a0e599d169940e787ed755a7ae329ff04a08542440c82",
+      "size": 50189891
     },
     "android": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.45/EQC-3.45.apk",
