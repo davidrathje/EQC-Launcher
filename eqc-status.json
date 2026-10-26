@@ -1,30 +1,30 @@
 {
   "v": 1,
   "enabled": true,
-  "minVersion": "3.46",
+  "minVersion": "3.47",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-25T20:01:27Z",
-  "seq": 33,
+  "issued": "2026-10-26T01:01:49Z",
+  "seq": 34,
   "latest": {
-    "companion": "3.46",
-    "client": "3.46"
+    "companion": "3.47",
+    "client": "3.47"
   },
-  "notes": "EQC 3.46: animation speed, real ability cooldowns option, EQC tab rebuild, pack-only game files (repack once), touch login, parity fixes.",
+  "notes": "EQC 3.47: touch original windows (selector, dialogs, Actions fix), skin frames, storyline, endurance max, Launcher icon + transfer fixes, Android in-app update.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.46/EQC-Launcher-Setup-3.46.exe",
-      "sha256": "9c36a4d48c8d4ab8e9247b4c86beb9ff99745a4856a53c4473dba1c9ebf752dc",
-      "size": 50328493
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.47/EQC-Launcher-Setup-3.47.exe",
+      "sha256": "113851f0908e15323446363c947e133b008cf783113830c0e4abad3dad72ac64",
+      "size": 50420322
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.46/EQC-3.46.apk",
-      "sha256": "1a2ff5c190077108380ec3ca7fbbd7dc1a28f8a7bafedc3b6ed2394728857f60",
-      "size": 34813723
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.47/EQC-3.47.apk",
+      "sha256": "e538260b2548a497a46b92af45f31d8a43c9146a8b5574ee420bbe7c66c31fd6",
+      "size": 35457935
     },
     "companion-macos": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.46/EQC-Launcher-3.46-macos.dmg",
-      "sha256": "9176946d49bd8101d07d38901f21f2d4288c115607c5269a823afccc0bcba85b",
-      "size": 40498166
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.47/EQC-Launcher-3.47-macos.dmg",
+      "sha256": "82be6857f8ef284ca21154d0b685eb72d3b6bb7b2353bc71849627ac15ec44c1",
+      "size": 40787834
     }
   }
 }
