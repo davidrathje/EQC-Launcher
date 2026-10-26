@@ -1,30 +1,30 @@
 {
   "v": 1,
   "enabled": true,
-  "minVersion": "3.48",
+  "minVersion": "3.49",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-26T06:57:39Z",
-  "seq": 35,
+  "issued": "2026-10-26T18:06:15Z",
+  "seq": 36,
   "latest": {
-    "companion": "3.48",
-    "client": "3.48"
+    "companion": "3.49",
+    "client": "3.49"
   },
-  "notes": "EQC 3.48: fire/smoke animation, Velious armour, char-select Quit to server select, P99 loot links, touch original windows, chat log + screenshots.",
+  "notes": "EQC 3.49: original skin handling, illusion item fix, forward closes loot, Alt spell names, sky and weather, camera, fear/camp rules.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.48/EQC-Launcher-Setup-3.48.exe",
-      "sha256": "96a59e65abd9690e2f5a92f4f7fcceec69a3e90164b3669a495a12e862fcbfe2",
-      "size": 50449428
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.49/EQC-Launcher-Setup-3.49.exe",
+      "sha256": "f37221333f64b2697796dd1f2d9191f45aa9b0a4562337d4dd02b853a641cc55",
+      "size": 50537269
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.48/EQC-3.48.apk",
-      "sha256": "c08385302a4db3c9ccc42d822f9d26f04b21945b4cee7910a6c34e0727c2b8b8",
-      "size": 35664143
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.49/EQC-3.49.apk",
+      "sha256": "c7bc7912d3e9d451b1ffe4d575588b0d017aa5d6895fa46e9b47ce51dae64e69",
+      "size": 36138319
     },
     "companion-macos": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.48/EQC-Launcher-3.48-macos.dmg",
-      "sha256": "8486b1ff123130ff0d65c016373d3b57fed505b4460216333bb65aeb2117c2a9",
-      "size": 41738161
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.49/EQC-Launcher-3.49-macos.dmg",
+      "sha256": "77f6fbf178bd8e15eccb9b22f6c1cf2a112f34dcc3f19d53fe6930b0fcca9924",
+      "size": 42025881
     }
   }
 }
