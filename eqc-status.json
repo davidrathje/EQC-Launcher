@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-27T15:12:49Z",
-  "seq": 38,
+  "issued": "2026-10-27T20:57:09Z",
+  "seq": 39,
   "latest": {
-    "companion": "3.50",
-    "client": "3.50"
+    "companion": "3.51",
+    "client": "3.51"
   },
-  "notes": "EQC 3.50: Default skin frames fixed, helm heads, item display over bags, hotbutton slot swap, /con self, touch windows and selector.",
+  "notes": "",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.50/EQC-Launcher-Setup-3.50.exe",
-      "sha256": "35d4c8e5eea842e2e017f8e7a8171e1ee6ecc455c1c1fbd27c84dec4c7e18585",
-      "size": 50538271
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.51/EQC-Launcher-Setup-3.51.exe",
+      "sha256": "fb21ab72c6a7ebcf81a4dd8e5978fd54e37ca6d43d06b725890eb6ecc437b751",
+      "size": 50543583
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.50/EQC-3.50.apk",
-      "sha256": "8f1963304eab42e97adaf392dcf79764a8e8718c2ab9c9e2ad67aac96b212941",
-      "size": 36145647
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.51/EQC-3.51.apk",
+      "sha256": "bfe6d91de1900f6d29183b696d7fe52b642a238d835c05ebe80821bf13c46907",
+      "size": 36150175
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.50/EQC-Launcher-3.50-macos.dmg",
