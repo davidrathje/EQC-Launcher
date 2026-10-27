@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "3.49",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-26T18:06:15Z",
-  "seq": 36,
+  "issued": "2026-10-27T09:52:51Z",
+  "seq": 37,
   "latest": {
-    "companion": "3.49",
-    "client": "3.49"
+    "companion": "3.50",
+    "client": "3.50"
   },
-  "notes": "EQC 3.49: original skin handling, illusion item fix, forward closes loot, Alt spell names, sky and weather, camera, fear/camp rules.",
+  "notes": "EQC 3.50: Default skin frames fixed, helm heads, item display over bags, hotbutton slot swap, /con self, touch windows and selector.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.49/EQC-Launcher-Setup-3.49.exe",
-      "sha256": "f37221333f64b2697796dd1f2d9191f45aa9b0a4562337d4dd02b853a641cc55",
-      "size": 50537269
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.50/EQC-Launcher-Setup-3.50.exe",
+      "sha256": "35d4c8e5eea842e2e017f8e7a8171e1ee6ecc455c1c1fbd27c84dec4c7e18585",
+      "size": 50538271
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.49/EQC-3.49.apk",
-      "sha256": "c7bc7912d3e9d451b1ffe4d575588b0d017aa5d6895fa46e9b47ce51dae64e69",
-      "size": 36138319
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.50/EQC-3.50.apk",
+      "sha256": "8f1963304eab42e97adaf392dcf79764a8e8718c2ab9c9e2ad67aac96b212941",
+      "size": 36145647
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.49/EQC-Launcher-3.49-macos.dmg",
