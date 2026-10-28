@@ -3,8 +3,8 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-28T19:36:11Z",
-  "seq": 41,
+  "issued": "2026-10-28T19:57:33Z",
+  "seq": 42,
   "latest": {
     "companion": "3.53",
     "client": "3.53"
@@ -29,6 +29,7 @@
   },
   "minVersions": {
     "windows": "3.53",
-    "android": "3.53"
+    "android": "3.53",
+    "ios": "3.53"
   }
 }
