@@ -3,23 +3,23 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Companion/releases",
-  "issued": "2026-10-27T20:57:09Z",
-  "seq": 39,
+  "issued": "2026-10-28T07:30:19Z",
+  "seq": 40,
   "latest": {
-    "companion": "3.51",
-    "client": "3.51"
+    "companion": "3.52",
+    "client": "3.52"
   },
   "notes": "",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.51/EQC-Launcher-Setup-3.51.exe",
-      "sha256": "fb21ab72c6a7ebcf81a4dd8e5978fd54e37ca6d43d06b725890eb6ecc437b751",
-      "size": 50543583
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.52/EQC-Launcher-Setup-3.52.exe",
+      "sha256": "4d810cda4c799a74a6d5d1830f3a173a7177797e01d9252b9c54e4a746fd5c0b",
+      "size": 50545895
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.51/EQC-3.51.apk",
-      "sha256": "bfe6d91de1900f6d29183b696d7fe52b642a238d835c05ebe80821bf13c46907",
-      "size": 36150175
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.52/EQC-3.52.apk",
+      "sha256": "21b4a4efa0ff86aaa3a831c5b09f86e3cd0cf1ac8330b1075ad448086c8f6ab5",
+      "size": 36172655
     },
     "companion-macos": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.50/EQC-Launcher-3.50-macos.dmg",
