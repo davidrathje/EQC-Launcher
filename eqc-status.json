@@ -3,18 +3,18 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-10-29T17:57:20Z",
-  "seq": 48,
+  "issued": "2026-10-29T18:13:30Z",
+  "seq": 49,
   "latest": {
-    "companion": "3.56",
+    "companion": "3.57",
     "client": "3.56"
   },
-  "notes": "Version 3.56 available for Windows and Android.",
+  "notes": "Windows 3.57 fixes the Desktop client manifest and login Options. Android remains at 3.56.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.56/EQC-Launcher-Setup-3.56.exe",
-      "sha256": "dd8d6180636aeb0efc0d08484d43e1652544c5898151ea8ef8f208f75d760c3d",
-      "size": 50569665
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.57/EQC-Launcher-Setup-3.57.exe",
+      "sha256": "acbac1f8f6d3d739af889143637c1335120364ce7c74ddb3c60868d086389483",
+      "size": 50567753
     },
     "android": {
       "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.56/EQC-3.56.apk",
@@ -33,3 +33,4 @@
     "ios": "3.57"
   }
 }
+
