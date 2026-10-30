@@ -3,13 +3,13 @@
     "enabled":  true,
     "minVersion":  "3.50",
     "message":  "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-    "issued":  "2026-10-30T21:18:44Z",
-    "seq":  53,
+    "issued":  "2026-10-30T21:29:51Z",
+    "seq":  54,
     "latest":  {
                    "companion":  "3.62",
                    "client":  "3.62"
                },
-    "notes":  "EQC 3.62 released for Windows, Android and iOS. Touch hotbuttons visibility correction will follow in the next version.",
+    "notes":  "Android 3.62 manual update fix available. Existing Android users must install the replacement APK manually once; future mandatory updates can be started in-app. Windows and iOS remain 3.62.",
     "assets":  {
                    "companion-windows-x64":  {
                                                  "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.62/EQC-Launcher-Setup-3.62.exe",
@@ -17,9 +17,9 @@
                                                  "size":  42883731
                                              },
                    "android":  {
-                                   "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.62/EQC-3.62.apk",
-                                   "sha256":  "a40dea5d831145dfbf39a64cdc3dd3b4825e08b90675927d44afe80d0ec82918",
-                                   "size":  36322219
+                                   "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.62-manual-update/EQC-3.62.apk",
+                                   "sha256":  "e8e9c047b818a99d6dfddd2f78a1ded5f64f4d961a3d2915c3d53f440d2ca641",
+                                   "size":  36322427
                                },
                    "companion-macos":  {
                                            "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.50/EQC-Launcher-3.50-macos.dmg",
