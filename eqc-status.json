@@ -1,35 +1,35 @@
 {
-  "v": 1,
-  "enabled": true,
-  "minVersion": "3.50",
-  "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-10-29T20:32:00Z",
-  "seq": 50,
-  "latest": {
-    "companion": "3.58",
-    "client": "3.58"
-  },
-  "notes": "Version 3.58 available for Desktop, Browser and Android. Fixes login Options and validates all packaged clients.",
-  "assets": {
-    "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.58/EQC-Launcher-Setup-3.58.exe",
-      "sha256": "10c8757e93716cc7c34382c070e477c7869af5b5d10178987f521cca986a028c",
-      "size": 46468527
-    },
-    "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.58/EQC-3.58.apk",
-      "sha256": "bd391f333215901c5f653a746befbdc2dc772072e6e1669c7da9297f7053bcb0",
-      "size": 36311615
-    },
-    "companion-macos": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.50/EQC-Launcher-3.50-macos.dmg",
-      "sha256": "c723c13f74dc046b25aeb6f5ba7f7086ec0c078652143dd533b18ea2626ca827",
-      "size": 42039293
-    }
-  },
-  "minVersions": {
-    "windows": "3.58",
-    "android": "3.58",
-    "ios": "3.57"
-  }
+    "v":  1,
+    "enabled":  true,
+    "minVersion":  "3.50",
+    "message":  "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
+    "issued":  "2026-10-30T21:12:59Z",
+    "seq":  51,
+    "latest":  {
+                   "companion":  "3.58",
+                   "client":  "3.58"
+               },
+    "notes":  "Android 3.62 released. Touch hotbuttons visibility correction will be included in the next version. Windows remains on its previously published version until installer verification.",
+    "assets":  {
+                   "companion-windows-x64":  {
+                                                 "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.58/EQC-Launcher-Setup-3.58.exe",
+                                                 "sha256":  "10c8757e93716cc7c34382c070e477c7869af5b5d10178987f521cca986a028c",
+                                                 "size":  46468527
+                                             },
+                   "android":  {
+                                   "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.62/EQC-3.62.apk",
+                                   "sha256":  "a40dea5d831145dfbf39a64cdc3dd3b4825e08b90675927d44afe80d0ec82918",
+                                   "size":  36322219
+                               },
+                   "companion-macos":  {
+                                           "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.50/EQC-Launcher-3.50-macos.dmg",
+                                           "sha256":  "c723c13f74dc046b25aeb6f5ba7f7086ec0c078652143dd533b18ea2626ca827",
+                                           "size":  42039293
+                                       }
+               },
+    "minVersions":  {
+                        "windows":  "3.58",
+                        "android":  "3.62",
+                        "ios":  "3.57"
+                    }
 }
