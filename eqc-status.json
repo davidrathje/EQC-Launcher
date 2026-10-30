@@ -3,18 +3,18 @@
     "enabled":  true,
     "minVersion":  "3.50",
     "message":  "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-    "issued":  "2026-10-30T21:15:46Z",
-    "seq":  52,
+    "issued":  "2026-10-30T21:18:44Z",
+    "seq":  53,
     "latest":  {
-                   "companion":  "3.58",
-                   "client":  "3.58"
+                   "companion":  "3.62",
+                   "client":  "3.62"
                },
-    "notes":  "Android and iOS 3.62 available. iOS settings and window-position persistence awaiting device verification. Windows release unchanged.",
+    "notes":  "EQC 3.62 released for Windows, Android and iOS. Touch hotbuttons visibility correction will follow in the next version.",
     "assets":  {
                    "companion-windows-x64":  {
-                                                 "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.58/EQC-Launcher-Setup-3.58.exe",
-                                                 "sha256":  "10c8757e93716cc7c34382c070e477c7869af5b5d10178987f521cca986a028c",
-                                                 "size":  46468527
+                                                 "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.62/EQC-Launcher-Setup-3.62.exe",
+                                                 "sha256":  "34a630098517a171d9daefa6bade2d56f40a97b0502f237573afdce5b3e6bed1",
+                                                 "size":  42883731
                                              },
                    "android":  {
                                    "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.62/EQC-3.62.apk",
@@ -28,7 +28,7 @@
                                        }
                },
     "minVersions":  {
-                        "windows":  "3.58",
+                        "windows":  "3.62",
                         "android":  "3.62",
                         "ios":  "3.62"
                     }
