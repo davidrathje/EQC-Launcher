@@ -3,13 +3,13 @@
     "enabled":  true,
     "minVersion":  "3.50",
     "message":  "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-    "issued":  "2026-10-30T21:12:59Z",
-    "seq":  51,
+    "issued":  "2026-10-30T21:15:46Z",
+    "seq":  52,
     "latest":  {
                    "companion":  "3.58",
                    "client":  "3.58"
                },
-    "notes":  "Android 3.62 released. Touch hotbuttons visibility correction will be included in the next version. Windows remains on its previously published version until installer verification.",
+    "notes":  "Android and iOS 3.62 available. iOS settings and window-position persistence awaiting device verification. Windows release unchanged.",
     "assets":  {
                    "companion-windows-x64":  {
                                                  "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.58/EQC-Launcher-Setup-3.58.exe",
@@ -30,6 +30,6 @@
     "minVersions":  {
                         "windows":  "3.58",
                         "android":  "3.62",
-                        "ios":  "3.57"
+                        "ios":  "3.62"
                     }
 }
