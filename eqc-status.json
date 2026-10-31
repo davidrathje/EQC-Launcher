@@ -3,13 +3,13 @@
     "enabled":  true,
     "minVersion":  "3.50",
     "message":  "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-    "issued":  "2026-10-30T22:25:03Z",
-    "seq":  56,
+    "issued":  "2026-10-31T09:00:08Z",
+    "seq":  57,
     "latest":  {
                    "companion":  "3.64",
                    "client":  "3.64"
                },
-    "notes":  "EQC 3.64 Windows and Android released; Touch Hotbuttons and D-pad now use the same skin button artwork as Actions. iOS 3.64 TestFlight availability is not yet verified.",
+    "notes":  "EQC 3.64 Windows and Android released; Touch Hotbuttons and D-pad now use the same skin button artwork as Actions. iOS 3.64 build 29 is available on TestFlight.",
     "assets":  {
                    "companion-windows-x64":  {
                                                  "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.64/EQC-Launcher-Setup-3.64.exe",
@@ -30,6 +30,6 @@
     "minVersions":  {
                         "windows":  "3.64",
                         "android":  "3.64",
-                        "ios":  "3.63"
+                        "ios":  "3.64"
                     }
 }
