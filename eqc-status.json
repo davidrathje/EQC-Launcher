@@ -3,8 +3,8 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-10-31T21:44:29Z",
-  "seq": 60,
+  "issued": "2026-10-31T22:05:03Z",
+  "seq": 61,
   "latest": {
     "launcher": "3.66",
     "companion": "3.66",
@@ -29,9 +29,9 @@
     }
   },
   "minVersions": {
-    "windows": "3.65",
-    "android": "3.65",
-    "ios": "3.65",
+    "windows": "3.66",
+    "android": "3.66",
+    "ios": "3.66",
     "macos": "3.50"
   }
 }
