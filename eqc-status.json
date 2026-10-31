@@ -3,23 +3,23 @@
     "enabled":  true,
     "minVersion":  "3.50",
     "message":  "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-    "issued":  "2026-10-31T09:00:08Z",
-    "seq":  57,
+    "issued":  "2026-10-31T09:51:36Z",
+    "seq":  58,
     "latest":  {
-                   "companion":  "3.64",
-                   "client":  "3.64"
+                   "companion":  "3.65",
+                   "client":  "3.65"
                },
-    "notes":  "EQC 3.64 Windows and Android released; Touch Hotbuttons and D-pad now use the same skin button artwork as Actions. iOS 3.64 build 29 is available on TestFlight.",
+    "notes":  "EQC 3.65 for Windows, Android and iOS (build 30). Hotfix: the Windows desktop client in 3.64 did not start (z.dll).",
     "assets":  {
                    "companion-windows-x64":  {
-                                                 "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.64/EQC-Launcher-Setup-3.64.exe",
-                                                 "sha256":  "3633637441abfd2a5fcd4a6487a296a2e009e241b4dc0c0a4624ee77b22c1416",
-                                                 "size":  42882230
+                                                 "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.65/EQC-Launcher-Setup-3.65.exe",
+                                                 "sha256":  "83f5604d32f0b17eb91c0088e65f85fad0e6c3f31ec8e5a98e17ce644b7e47fe",
+                                                 "size":  42924949
                                              },
                    "android":  {
-                                   "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.64/EQC-3.64.apk",
-                                   "sha256":  "0c725e825c7d395802ed400017308be6aff1fcabba5b0d27ca30455939380f33",
-                                   "size":  36321975
+                                   "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.65/EQC-3.65.apk",
+                                   "sha256":  "7fd1b4a243a50a0d0085bdeb8dc148c5f9d3d458f82ad5b7b78c20afd5d9e479",
+                                   "size":  36321455
                                },
                    "companion-macos":  {
                                            "url":  "https://github.com/davidrathje/EQC-Launcher/releases/download/macos-v3.50/EQC-Launcher-3.50-macos.dmg",
@@ -28,8 +28,9 @@
                                        }
                },
     "minVersions":  {
-                        "windows":  "3.64",
-                        "android":  "3.64",
-                        "ios":  "3.64"
+                        "windows":  "3.65",
+                        "android":  "3.65",
+                        "ios":  "3.65",
+                        "macos":  "3.50"
                     }
 }
