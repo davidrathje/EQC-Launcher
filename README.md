@@ -28,6 +28,14 @@ EQC Launcher keeps itself and the clients up to date: when it shows **Update**, 
 
 EQC is available through TestFlight by invitation.
 
+## Mac
+
+No Mac release is published at present.
+
+## Releases
+
+Only the latest version of each platform is kept here.
+
 ## Checksums
 
 On Windows, calculate a downloaded installer's SHA-256 with `certutil -hashfile EQC-Launcher-Setup-<version>.exe SHA256`.
