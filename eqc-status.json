@@ -3,23 +3,29 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-10-31T12:10:31Z",
-  "seq": 59,
+  "issued": "2026-10-31T21:44:29Z",
+  "seq": 60,
   "latest": {
-    "companion": "3.65",
-    "client": "3.65"
+    "launcher": "3.66",
+    "companion": "3.66",
+    "client": "3.66"
   },
-  "notes": "EQC 3.65 for Windows, Android and iOS (build 30). Hotfix: the Windows desktop client in 3.64 did not start (z.dll).",
+  "notes": "EQC 3.66 for Windows, Android and iOS (build 31). Fixes the crash when moving an item with a bag open.",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.65/EQC-Launcher-Setup-3.65.exe",
-      "sha256": "83f5604d32f0b17eb91c0088e65f85fad0e6c3f31ec8e5a98e17ce644b7e47fe",
-      "size": 42924949
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.66/EQC-Launcher-Setup-3.66.exe",
+      "sha256": "c8f967f90a8f653831c5d13f7265ff3d42c4b197a4f7041a28d209d749aa146d",
+      "size": 43513509
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.65/EQC-3.65.apk",
-      "sha256": "7fd1b4a243a50a0d0085bdeb8dc148c5f9d3d458f82ad5b7b78c20afd5d9e479",
-      "size": 36321455
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.66/EQC-3.66.apk",
+      "sha256": "ac1436f15bd01f200e7bc356f44c765e6dc7882fdd288f2dbff93df2f664d53d",
+      "size": 36397679
+    },
+    "launcher-windows-x64": {
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.66/EQC-Launcher-Setup-3.66.exe",
+      "sha256": "c8f967f90a8f653831c5d13f7265ff3d42c4b197a4f7041a28d209d749aa146d",
+      "size": 43513509
     }
   },
   "minVersions": {
