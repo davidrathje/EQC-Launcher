@@ -3,29 +3,29 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-01T03:13:50Z",
-  "seq": 63,
+  "issued": "2026-11-01T05:45:06Z",
+  "seq": 64,
   "latest": {
-    "launcher": "3.68",
-    "companion": "3.68",
-    "client": "3.68"
+    "launcher": "3.69",
+    "companion": "3.69",
+    "client": "3.69"
   },
-  "notes": "iOS crash fix, Character Select delete question, name colours, Touch chat fixes",
+  "notes": "Touch Options layout, mana before the first server update, Touch window menu, font list",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.68/EQC-Launcher-Setup-3.68.exe",
-      "sha256": "6f0f284e5be211921b97e76145b689a2e5d2fbced8f1d6d8afda14e158282051",
-      "size": 43531354
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.69/EQC-Launcher-Setup-3.69.exe",
+      "sha256": "41ce0b4d1c0433f8447f4ebe93c89f617f9d89b580c27a2a0293be757ef74a84",
+      "size": 43526304
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.68/EQC-3.68.apk",
-      "sha256": "957d472fecc49f1c2e08af4b35292043c7dd51ce3baafdfeea7a530509bb1b2c",
-      "size": 36438223
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.69/EQC-3.69.apk",
+      "sha256": "80379addfbcda4021c32b1b041d2ce901af796f61e12245b732016ba59539774",
+      "size": 36455379
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.68/EQC-Launcher-Setup-3.68.exe",
-      "sha256": "6f0f284e5be211921b97e76145b689a2e5d2fbced8f1d6d8afda14e158282051",
-      "size": 43531354
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.69/EQC-Launcher-Setup-3.69.exe",
+      "sha256": "41ce0b4d1c0433f8447f4ebe93c89f617f9d89b580c27a2a0293be757ef74a84",
+      "size": 43526304
     }
   },
   "minVersions": {
