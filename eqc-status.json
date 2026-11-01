@@ -3,29 +3,29 @@
   "enabled": true,
   "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-10-31T23:54:38Z",
-  "seq": 62,
+  "issued": "2026-11-01T03:13:50Z",
+  "seq": 63,
   "latest": {
-    "launcher": "3.67",
-    "companion": "3.67",
-    "client": "3.67"
+    "launcher": "3.68",
+    "companion": "3.68",
+    "client": "3.68"
   },
-  "notes": "EQC 3.67 for Windows, Android and iOS (build 32). Velious armour, longer reconnect, Touch fixes. Game files need Update.",
+  "notes": "iOS crash fix, Character Select delete question, name colours, Touch chat fixes",
   "assets": {
     "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.67/EQC-Launcher-Setup-3.67.exe",
-      "sha256": "1edaa8e2e94780c1ea0cfb606bcf790ed90c56e691dc3b7e2915e4b6f9d5b9ab",
-      "size": 43519298
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.68/EQC-Launcher-Setup-3.68.exe",
+      "sha256": "6f0f284e5be211921b97e76145b689a2e5d2fbced8f1d6d8afda14e158282051",
+      "size": 43531354
     },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.67/EQC-3.67.apk",
-      "sha256": "0b9f6c9cec7f00dff347fdc3796e600393cf22bcca700a52737b140cd571f1c0",
-      "size": 36420895
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.68/EQC-3.68.apk",
+      "sha256": "957d472fecc49f1c2e08af4b35292043c7dd51ce3baafdfeea7a530509bb1b2c",
+      "size": 36438223
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.67/EQC-Launcher-Setup-3.67.exe",
-      "sha256": "1edaa8e2e94780c1ea0cfb606bcf790ed90c56e691dc3b7e2915e4b6f9d5b9ab",
-      "size": 43519298
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.68/EQC-Launcher-Setup-3.68.exe",
+      "sha256": "6f0f284e5be211921b97e76145b689a2e5d2fbced8f1d6d8afda14e158282051",
+      "size": 43531354
     }
   },
   "minVersions": {
