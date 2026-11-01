@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-01T09:36:56Z",
-  "seq": 65,
+  "issued": "2026-11-01T17:43:49Z",
+  "seq": 66,
   "latest": {
-    "launcher": "3.70",
-    "client": "3.70"
+    "launcher": "3.71",
+    "client": "3.71"
   },
-  "notes": "Touch skins, all fonts, boats, item windows above bags, Touch keyboard and name plates, Options fixes",
+  "notes": "Release is the original + Touch; additions move to key-unlocked channels; first skin windows from XML; spell hotbuttons as gems",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.70/EQC-3.70.apk",
-      "sha256": "bf2692b4dfd6712e4550d1911faebe3a604492bf6566049110878b474416fc5c",
-      "size": 36525871
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.71/EQC-3.71.apk",
+      "sha256": "59a6efd6c47631af99a6aba59db4fa28c34ef6fef2fec7c82a905601c98c8d6e",
+      "size": 36906779
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.70/EQC-Launcher-Setup-3.70.exe",
-      "sha256": "5484f960d7e346d05491e86c4354fdb1e753a32ad2f5afb2d928f8eb2562dc79",
-      "size": 43549767
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.71/EQC-Launcher-Setup-3.71.exe",
+      "sha256": "ced084e778d5303396b91de279ca5fbbcd8487810917ddba632515532a8c01c0",
+      "size": 43621856
     }
   },
   "minVersions": {
