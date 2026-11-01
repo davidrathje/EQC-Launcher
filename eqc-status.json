@@ -1,31 +1,24 @@
 {
   "v": 1,
   "enabled": true,
-  "minVersion": "3.50",
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-01T05:45:06Z",
-  "seq": 64,
+  "issued": "2026-11-01T09:36:56Z",
+  "seq": 65,
   "latest": {
-    "launcher": "3.69",
-    "companion": "3.69",
-    "client": "3.69"
+    "launcher": "3.70",
+    "client": "3.70"
   },
-  "notes": "Touch Options layout, mana before the first server update, Touch window menu, font list",
+  "notes": "Touch skins, all fonts, boats, item windows above bags, Touch keyboard and name plates, Options fixes",
   "assets": {
-    "companion-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.69/EQC-Launcher-Setup-3.69.exe",
-      "sha256": "41ce0b4d1c0433f8447f4ebe93c89f617f9d89b580c27a2a0293be757ef74a84",
-      "size": 43526304
-    },
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.69/EQC-3.69.apk",
-      "sha256": "80379addfbcda4021c32b1b041d2ce901af796f61e12245b732016ba59539774",
-      "size": 36455379
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.70/EQC-3.70.apk",
+      "sha256": "bf2692b4dfd6712e4550d1911faebe3a604492bf6566049110878b474416fc5c",
+      "size": 36525871
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.69/EQC-Launcher-Setup-3.69.exe",
-      "sha256": "41ce0b4d1c0433f8447f4ebe93c89f617f9d89b580c27a2a0293be757ef74a84",
-      "size": 43526304
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.70/EQC-Launcher-Setup-3.70.exe",
+      "sha256": "5484f960d7e346d05491e86c4354fdb1e753a32ad2f5afb2d928f8eb2562dc79",
+      "size": 43549767
     }
   },
   "minVersions": {
