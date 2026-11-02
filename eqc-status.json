@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-02T09:41:49Z",
-  "seq": 67,
+  "issued": "2026-11-02T15:10:42Z",
+  "seq": 68,
   "latest": {
-    "launcher": "3.72",
-    "client": "3.72"
+    "launcher": "3.73",
+    "client": "3.73"
   },
-  "notes": "Windows from the skin's XML; Touch windows movable; Android resume crash fixed",
+  "notes": "Target ring at true melee range, loot stack counts, EQC tab cleanup, brighter dark zones, extra hotbar on the Default skin, and original name-plate sizing.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.72/EQC-3.72.apk",
-      "sha256": "4ebd11446e3ff8e4f006aca6744775e74f34963a5987f9b9fbe9df689a1c1ae1",
-      "size": 37394747
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.73/EQC-3.73.apk",
+      "sha256": "994ed9368df0df0421548890e5ea505a46f2f8fddf0a00c6dfc9452a70da316b",
+      "size": 37424379
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.72/EQC-Launcher-Setup-3.72.exe",
-      "sha256": "3c7da27ab365bab6bc866eb5a0d5b8a251b6bdaf1ca8cee3b3d3790da8d56d64",
-      "size": 43757211
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.73/EQC-Launcher-Setup-3.73.exe",
+      "sha256": "e8c839c899210796adfb8f0cb737a30479c929132767c142b483d139ac6e9d93",
+      "size": 43763998
     }
   },
   "minVersions": {
