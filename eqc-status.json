@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-02T18:47:24Z",
-  "seq": 69,
+  "issued": "2026-11-02T20:33:34Z",
+  "seq": 70,
   "latest": {
-    "launcher": "3.74",
-    "client": "3.74"
+    "launcher": "3.75",
+    "client": "3.75"
   },
-  "notes": "Target ring size slider, melee-range ring, clean 2nd hotbar, and smoother movement sync.",
+  "notes": "Touch: movable hotbar and resizable chat; Android keeps its UI textures after a task-switch.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.74/EQC-3.74.apk",
-      "sha256": "b9db6ed11bca43137b9df0721a2c3efcce6a693c655f4746e97882f5f0e50d70",
-      "size": 37425243
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.75/EQC-3.75.apk",
+      "sha256": "b0b3321b4df460dfe7010efacf49f12ab4ef689e9a7d888c62b92b0fc04564df",
+      "size": 37427755
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.74/EQC-Launcher-Setup-3.74.exe",
-      "sha256": "032ca8e0198d8120b4f4be2db8f588251a1c0c4a9e59f1a6fb7a669e866bf232",
-      "size": 43763703
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.75/EQC-Launcher-Setup-3.75.exe",
+      "sha256": "0862a742eb48e0825b414e4a664fcca64934371505a07641a708aa1a45d60f63",
+      "size": 43764362
     }
   },
   "minVersions": {
