@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-02T20:33:34Z",
-  "seq": 70,
+  "issued": "2026-11-03T00:44:48Z",
+  "seq": 71,
   "latest": {
-    "launcher": "3.75",
-    "client": "3.75"
+    "launcher": "3.76",
+    "client": "3.76"
   },
-  "notes": "Touch: movable hotbar and resizable chat; Android keeps its UI textures after a task-switch.",
+  "notes": "Touch & Android fixes: hotbar, chat resize, Android icon reload, text-entry box, chat filters.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.75/EQC-3.75.apk",
-      "sha256": "b0b3321b4df460dfe7010efacf49f12ab4ef689e9a7d888c62b92b0fc04564df",
-      "size": 37427755
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.76/EQC-3.76.apk",
+      "sha256": "65df357aff20dbc78caf8ec92df7ecc3d8e6a4570376c05795dfe1eed4e6ba4b",
+      "size": 37428607
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.75/EQC-Launcher-Setup-3.75.exe",
-      "sha256": "0862a742eb48e0825b414e4a664fcca64934371505a07641a708aa1a45d60f63",
-      "size": 43764362
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.76/EQC-Launcher-Setup-3.76.exe",
+      "sha256": "1868188037e5923c427147fc466711bd464c6eb7f387c97a670d8908a8975d21",
+      "size": 43765277
     }
   },
   "minVersions": {
