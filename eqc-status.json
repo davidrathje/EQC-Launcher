@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-03T00:44:48Z",
-  "seq": 71,
+  "issued": "2026-11-03T08:01:49Z",
+  "seq": 72,
   "latest": {
-    "launcher": "3.76",
-    "client": "3.76"
+    "launcher": "3.79",
+    "client": "3.79"
   },
-  "notes": "Touch & Android fixes: hotbar, chat resize, Android icon reload, text-entry box, chat filters.",
+  "notes": "Options, name plates, map filters, gamepad and touch controls.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.76/EQC-3.76.apk",
-      "sha256": "65df357aff20dbc78caf8ec92df7ecc3d8e6a4570376c05795dfe1eed4e6ba4b",
-      "size": 37428607
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.79/EQC-3.79.apk",
+      "sha256": "bd9e391c76648337cb99673d76f0a6b54e8d54cdd500487b03687f24486033c9",
+      "size": 37492939
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.76/EQC-Launcher-Setup-3.76.exe",
-      "sha256": "1868188037e5923c427147fc466711bd464c6eb7f387c97a670d8908a8975d21",
-      "size": 43765277
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.79/EQC-Launcher-Setup-3.79.exe",
+      "sha256": "5b0341ebe2be39b697a590ed2446e7f79c0280e66e833108d46eab3be94e148d",
+      "size": 43787308
     }
   },
   "minVersions": {
