@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-03T15:23:29Z",
-  "seq": 78,
+  "issued": "2026-11-03T17:38:29Z",
+  "seq": 79,
   "latest": {
-    "launcher": "3.85",
-    "client": "3.85"
+    "launcher": "3.86",
+    "client": "3.86"
   },
-  "notes": "Touch: own plate sized like NPCs, D-pad names, target ring inner edge outside the body, window titles centred",
+  "notes": "Touch: Interface size grows controls and windows, Sit/Stand label, Effects resize, no Show compass row",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.85/EQC-3.85.apk",
-      "sha256": "8968f5cc492873cef25760bf31aa21233d28b38f02042cb44f0d028f661057cf",
-      "size": 37501307
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.86/EQC-3.86.apk",
+      "sha256": "8fab8007e799f674cde1d4a9a4784e34c999daa5f156efc4112553800d89ae56",
+      "size": 37518555
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.85/EQC-Launcher-Setup-3.85.exe",
-      "sha256": "0973cd1231e7222c0f4849a5ded5c2a2ef1aa82dce247c1c27706207cb2f4fe3",
-      "size": 43783538
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.86/EQC-Launcher-Setup-3.86.exe",
+      "sha256": "20ce70b56c1382336b91308061f648376e2e8d85c56f2bf9e21d214a3056949e",
+      "size": 43786935
     }
   },
   "minVersions": {
