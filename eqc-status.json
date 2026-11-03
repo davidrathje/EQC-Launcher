@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-03T18:28:06Z",
-  "seq": 80,
+  "issued": "2026-11-03T22:56:19Z",
+  "seq": 81,
   "latest": {
-    "launcher": "3.87",
-    "client": "3.87"
+    "launcher": "3.88",
+    "client": "3.88"
   },
-  "notes": "Touch: Effects resize, even target ring band, plate bars follow name size, Yes button margin",
+  "notes": "Alt item/buff names, map tooltips with class, exp bar lines, Effects title moves, target ring tails",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.87/EQC-3.87.apk",
-      "sha256": "9e38938c84b1677a0635052b98c17954d2e8f247cb86744467e4a6495a44a5c8",
-      "size": 37519135
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.88/EQC-3.88.apk",
+      "sha256": "50111489a1fee0eaf119a9643f1ac18c5ae72c7cbb46cc559f3d85044e09efd2",
+      "size": 37532939
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.87/EQC-Launcher-Setup-3.87.exe",
-      "sha256": "ccaf8ae56fbc8deba7f298d0c7a749cc55f0632bfc68db155056e5b6e8c57354",
-      "size": 43785567
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.88/EQC-Launcher-Setup-3.88.exe",
+      "sha256": "a618365fd2721ca7276c74897970052ae7b216611426734c4d4616490aae4581",
+      "size": 43794195
     }
   },
   "minVersions": {
