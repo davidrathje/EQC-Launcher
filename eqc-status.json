@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-03T08:46:25Z",
-  "seq": 73,
+  "issued": "2026-11-03T09:45:49Z",
+  "seq": 74,
   "latest": {
-    "launcher": "3.80",
-    "client": "3.80"
+    "launcher": "3.81",
+    "client": "3.81"
   },
-  "notes": "Chat resize on Touch, chat tab margins, map zoom keeps its centre.",
+  "notes": "Hide and every skill on the Actions pages.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.80/EQC-3.80.apk",
-      "sha256": "9fd3d3e05b8ad6ba25e42e667de1461aca0e6c97f31076c6bd527d012c431385",
-      "size": 37492975
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.81/EQC-3.81.apk",
+      "sha256": "e66fe3d2132a4cd794c37b2a1afb8b20be07b1986333279221a1c9665c808ef7",
+      "size": 37498587
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.80/EQC-Launcher-Setup-3.80.exe",
-      "sha256": "82ef939d25e0cd8200a088a8957e8af7de79a28c6f220b9f001e63b6a372652d",
-      "size": 43780796
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.81/EQC-Launcher-Setup-3.81.exe",
+      "sha256": "4e50c29b46c2bd44840b5dd2f187747af427a235065e4fc39bea073776bec088",
+      "size": 43784579
     }
   },
   "minVersions": {
