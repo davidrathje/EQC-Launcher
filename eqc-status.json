@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-03T11:09:03Z",
-  "seq": 76,
+  "issued": "2026-11-03T11:31:57Z",
+  "seq": 77,
   "latest": {
-    "launcher": "3.83",
-    "client": "3.83"
+    "launcher": "3.84",
+    "client": "3.84"
   },
-  "notes": "Touch chat resize; wider HP bar.",
+  "notes": "Touch: own name plate size; menu Options.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.83/EQC-3.83.apk",
-      "sha256": "887990487ecded787e5bb03aa42fab00f206944222d1487dd96af370c882f348",
-      "size": 37498943
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.84/EQC-3.84.apk",
+      "sha256": "a8cc91d85881b72e8e81d9ff0b22f02929f230208c550bc3a66d1a9806be5960",
+      "size": 37498939
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.83/EQC-Launcher-Setup-3.83.exe",
-      "sha256": "152851f57b13246ef82b56b6845cc7e67f9857f04dbc196b4f65b614127ce722",
-      "size": 43785263
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.84/EQC-Launcher-Setup-3.84.exe",
+      "sha256": "10bad1ea2093f752506342cde930e1038f4c1cb94b7f1aa7fbb08f6c8646909e",
+      "size": 43781913
     }
   },
   "minVersions": {
