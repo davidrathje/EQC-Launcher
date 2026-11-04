@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-04T14:03:23Z",
-  "seq": 83,
+  "issued": "2026-11-04T21:21:40Z",
+  "seq": 84,
   "latest": {
-    "launcher": "3.90",
-    "client": "3.90"
+    "launcher": "3.91",
+    "client": "3.91"
   },
-  "notes": "Browser client works again (relay back in the installer)",
+  "notes": "Torch size and smoke, combat music volume, Explore removed",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.90/EQC-3.90.apk",
-      "sha256": "e256528634af4c6d528a22f20d28c4606402e036068a3f9fbf172f4ab88f4438",
-      "size": 37573167
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.91/EQC-3.91.apk",
+      "sha256": "d247d37b070f79f9fa7ce00d5d0abe2138512b335e56199ae401e80182de8dc6",
+      "size": 37535759
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.90/EQC-Launcher-Setup-3.90.exe",
-      "sha256": "43cbb0a513eb65bdfa13bad4adb0f473656a876e18103dbe5b5f1b6b7322f4b1",
-      "size": 44363943
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.91/EQC-Launcher-Setup-3.91.exe",
+      "sha256": "a68aecfc234f18c81de5ab41d1e5818146f451f4e4cf8db99936c1eeddb76778",
+      "size": 44355414
     }
   },
   "minVersions": {
