@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-04T13:03:27Z",
-  "seq": 82,
+  "issued": "2026-11-04T14:03:23Z",
+  "seq": 83,
   "latest": {
-    "launcher": "3.89",
-    "client": "3.89"
+    "launcher": "3.90",
+    "client": "3.90"
   },
-  "notes": "Default layout, Esc closes item windows, item icon link, plates like the original, all zone object archives, /random and skill-up colours",
+  "notes": "Browser client works again (relay back in the installer)",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.89/EQC-3.89.apk",
-      "sha256": "7fed12b12b949da50861a202e10e05ee0e3440191f3459f92edced193602fccd",
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.90/EQC-3.90.apk",
+      "sha256": "e256528634af4c6d528a22f20d28c4606402e036068a3f9fbf172f4ab88f4438",
       "size": 37573167
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.89/EQC-Launcher-Setup-3.89.exe",
-      "sha256": "bfcb316584f1d55c838f81731b2de0ab70567f30c1461176474f175b91b0da6c",
-      "size": 43810990
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.90/EQC-Launcher-Setup-3.90.exe",
+      "sha256": "43cbb0a513eb65bdfa13bad4adb0f473656a876e18103dbe5b5f1b6b7322f4b1",
+      "size": 44363943
     }
   },
   "minVersions": {
