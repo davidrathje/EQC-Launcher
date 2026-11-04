@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-03T22:56:19Z",
-  "seq": 81,
+  "issued": "2026-11-04T13:03:27Z",
+  "seq": 82,
   "latest": {
-    "launcher": "3.88",
-    "client": "3.88"
+    "launcher": "3.89",
+    "client": "3.89"
   },
-  "notes": "Alt item/buff names, map tooltips with class, exp bar lines, Effects title moves, target ring tails",
+  "notes": "Default layout, Esc closes item windows, item icon link, plates like the original, all zone object archives, /random and skill-up colours",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.88/EQC-3.88.apk",
-      "sha256": "50111489a1fee0eaf119a9643f1ac18c5ae72c7cbb46cc559f3d85044e09efd2",
-      "size": 37532939
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.89/EQC-3.89.apk",
+      "sha256": "7fed12b12b949da50861a202e10e05ee0e3440191f3459f92edced193602fccd",
+      "size": 37573167
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.88/EQC-Launcher-Setup-3.88.exe",
-      "sha256": "a618365fd2721ca7276c74897970052ae7b216611426734c4d4616490aae4581",
-      "size": 43794195
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.89/EQC-Launcher-Setup-3.89.exe",
+      "sha256": "bfcb316584f1d55c838f81731b2de0ab70567f30c1461176474f175b91b0da6c",
+      "size": 43810990
     }
   },
   "minVersions": {
