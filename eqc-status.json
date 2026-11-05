@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-04T21:21:40Z",
-  "seq": 84,
+  "issued": "2026-11-05T17:01:23Z",
+  "seq": 85,
   "latest": {
-    "launcher": "3.91",
-    "client": "3.91"
+    "launcher": "3.92",
+    "client": "3.92"
   },
-  "notes": "Torch size and smoke, combat music volume, Explore removed",
+  "notes": "Tree crowns passable, level-up particles, separate music volumes, tab-out frame sleep, loading wait text removed",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.91/EQC-3.91.apk",
-      "sha256": "d247d37b070f79f9fa7ce00d5d0abe2138512b335e56199ae401e80182de8dc6",
-      "size": 37535759
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.92/EQC-3.92.apk",
+      "sha256": "c8fa0ee7f2e30e9ed0e10cc7ddc63b81fd0bdf38a4eccc38e5ea8d9e8c0d1d0d",
+      "size": 37560767
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.91/EQC-Launcher-Setup-3.91.exe",
-      "sha256": "a68aecfc234f18c81de5ab41d1e5818146f451f4e4cf8db99936c1eeddb76778",
-      "size": 44355414
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.92/EQC-Launcher-Setup-3.92.exe",
+      "sha256": "fedf28c944298b9848adfaeb1ff57d971ed25db69f4e3cbeaa3f7c9236df0135",
+      "size": 44362023
     }
   },
   "minVersions": {
