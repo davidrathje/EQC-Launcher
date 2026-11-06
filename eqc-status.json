@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-05T17:01:23Z",
-  "seq": 85,
+  "issued": "2026-11-06T14:43:23Z",
+  "seq": 86,
   "latest": {
-    "launcher": "3.92",
-    "client": "3.92"
+    "launcher": "3.93",
+    "client": "3.93"
   },
-  "notes": "Tree crowns passable, level-up particles, separate music volumes, tab-out frame sleep, loading wait text removed",
+  "notes": "EQC 3.93: original skill picker, Destroy confirmation, animated zone objects with torch flames, PvP areas, Server Select art",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.92/EQC-3.92.apk",
-      "sha256": "c8fa0ee7f2e30e9ed0e10cc7ddc63b81fd0bdf38a4eccc38e5ea8d9e8c0d1d0d",
-      "size": 37560767
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.93/EQC-3.93.apk",
+      "sha256": "f19516abf7689f201347b942c897d38b1f1cf79ea147b2f6cb5d00c05ae1ac0c",
+      "size": 37692687
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.92/EQC-Launcher-Setup-3.92.exe",
-      "sha256": "fedf28c944298b9848adfaeb1ff57d971ed25db69f4e3cbeaa3f7c9236df0135",
-      "size": 44362023
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.93/EQC-Launcher-Setup-3.93.exe",
+      "sha256": "b6b58c48261581cc172d5a05f2a1fe0a90ab88737eefcf0924f902ae06ffadb1",
+      "size": 44392078
     }
   },
   "minVersions": {
