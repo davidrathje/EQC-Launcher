@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-06T14:43:23Z",
-  "seq": 86,
+  "issued": "2026-11-06T17:29:59Z",
+  "seq": 87,
   "latest": {
-    "launcher": "3.93",
-    "client": "3.93"
+    "launcher": "3.94",
+    "client": "3.94"
   },
-  "notes": "EQC 3.93: original skill picker, Destroy confirmation, animated zone objects with torch flames, PvP areas, Server Select art",
+  "notes": "EQC 3.94: Character Select shows the held items' particle clouds (epics)",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.93/EQC-3.93.apk",
-      "sha256": "f19516abf7689f201347b942c897d38b1f1cf79ea147b2f6cb5d00c05ae1ac0c",
-      "size": 37692687
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.94/EQC-3.94.apk",
+      "sha256": "fe97804da8bacdca35e3007d21e19bad1e9217b1574714f5ea3164c0c5788b21",
+      "size": 37695403
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.93/EQC-Launcher-Setup-3.93.exe",
-      "sha256": "b6b58c48261581cc172d5a05f2a1fe0a90ab88737eefcf0924f902ae06ffadb1",
-      "size": 44392078
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.94/EQC-Launcher-Setup-3.94.exe",
+      "sha256": "648ed9e571e12558bca1d5469d5f4b78f8b84fbf9eb54c3ae14dde6767a820f9",
+      "size": 44393617
     }
   },
   "minVersions": {
