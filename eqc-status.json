@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-08T11:43:11Z",
-  "seq": 88,
+  "issued": "2026-11-08T14:30:58Z",
+  "seq": 89,
   "latest": {
-    "launcher": "3.95",
-    "client": "3.95"
+    "launcher": "3.96",
+    "client": "3.96"
   },
-  "notes": "EQC 3.95: closer to the original client (nameplates, weather, skin windows, text, movement)",
+  "notes": "EQC 3.96: fixes the game-file update error (fonts/arial.ttf); login screen tweaks",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.95/EQC-3.95.apk",
-      "sha256": "d361bc729ac3eeedbdc336b2fb6da2da673349f3a3fc2f8017da73f047597577",
-      "size": 37818861
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.96/EQC-3.96.apk",
+      "sha256": "512342c4c7699c7b07270c025f76adf88ba7255776fd75cae0e7f572c3700733",
+      "size": 37823309
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.95/EQC-Launcher-Setup-3.95.exe",
-      "sha256": "44ca0ff81658630657eaeb3c8e4efe1dc19edeeaf0ef8f6448991f34bc416c87",
-      "size": 44206647
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.96/EQC-Launcher-Setup-3.96.exe",
+      "sha256": "b5ebe228c28d4d487223870509ffda7c435138f145efaebfbe61840d60c0977d",
+      "size": 44208016
     }
   },
   "minVersions": {
