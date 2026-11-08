@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-08T18:01:58Z",
-  "seq": 90,
+  "issued": "2026-11-08T21:53:30Z",
+  "seq": 91,
   "latest": {
-    "launcher": "3.97",
-    "client": "3.97"
+    "launcher": "3.98",
+    "client": "3.98"
   },
-  "notes": "EQC 3.97: disconnect handling, loading bar, target ring, colours and phone layout fixes",
+  "notes": "EQC 3.98: closer to the original (zone unavailable, loading screen, animations, sound, containers, fonts)",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.97/EQC-3.97.apk",
-      "sha256": "b75e880a9501537cf15d7e73fc767048aaba4a947afd18847d167c5a241bdd58",
-      "size": 37915533
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.98/EQC-3.98.apk",
+      "sha256": "e4ecece4ba67fecc6713b33688e288ed4596ec85772f7cc79b26c7f6d88f471b",
+      "size": 37721437
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.97/EQC-Launcher-Setup-3.97.exe",
-      "sha256": "caae77e464a4c668e615383c714bca61aa56b7e1a18532e17bdc1efb01f70713",
-      "size": 44226303
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.98/EQC-Launcher-Setup-3.98.exe",
+      "sha256": "04eb13e6309dc8ec0f4387a51869842462667bda5306dbc453a46218e7dd64b5",
+      "size": 44194623
     }
   },
   "minVersions": {
