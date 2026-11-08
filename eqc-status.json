@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-06T17:29:59Z",
-  "seq": 87,
+  "issued": "2026-11-08T11:43:11Z",
+  "seq": 88,
   "latest": {
-    "launcher": "3.94",
-    "client": "3.94"
+    "launcher": "3.95",
+    "client": "3.95"
   },
-  "notes": "EQC 3.94: Character Select shows the held items' particle clouds (epics)",
+  "notes": "EQC 3.95: closer to the original client (nameplates, weather, skin windows, text, movement)",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.94/EQC-3.94.apk",
-      "sha256": "fe97804da8bacdca35e3007d21e19bad1e9217b1574714f5ea3164c0c5788b21",
-      "size": 37695403
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.95/EQC-3.95.apk",
+      "sha256": "d361bc729ac3eeedbdc336b2fb6da2da673349f3a3fc2f8017da73f047597577",
+      "size": 37818861
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.94/EQC-Launcher-Setup-3.94.exe",
-      "sha256": "648ed9e571e12558bca1d5469d5f4b78f8b84fbf9eb54c3ae14dde6767a820f9",
-      "size": 44393617
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.95/EQC-Launcher-Setup-3.95.exe",
+      "sha256": "44ca0ff81658630657eaeb3c8e4efe1dc19edeeaf0ef8f6448991f34bc416c87",
+      "size": 44206647
     }
   },
   "minVersions": {
