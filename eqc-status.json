@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-09T10:07:14Z",
-  "seq": 94,
+  "issued": "2026-11-09T14:34:43Z",
+  "seq": 95,
   "latest": {
-    "launcher": "4.01",
-    "client": "4.01"
+    "launcher": "4.03",
+    "client": "4.03"
   },
-  "notes": "EQC 4.01: Touch one-finger camera, corpse HP bar gone, Hide own name (Dev), XML error box",
+  "notes": "4.03: world-connect loading screen shows the splash, climbing bar and a 'Welcome to <your server>' line; the login EXIT confirmation and other login texts no longer show 'String not found'.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.01/EQC-4.01.apk",
-      "sha256": "5c2359a5c6adaeaeef902e68aa70c0115fd7cee5923ab6a0484923ca99c466f1",
-      "size": 37720637
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.03/EQC-4.03.apk",
+      "sha256": "9a2ca9496c2dc4bf6c49c50b3708152e6c0212ef21b950d15758f7f1f44c6e02",
+      "size": 37739133
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.01/EQC-Launcher-Setup-4.01.exe",
-      "sha256": "ae66d94d5c7759de606417e4870bf4888d546a77e24f7201c0d7ff892ee71848",
-      "size": 44210584
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.03/EQC-Launcher-Setup-4.03.exe",
+      "sha256": "e92ac27784b7cefa23ad1622f603541fe121d4e40e6b064383213adc486404f2",
+      "size": 44214218
     }
   },
   "minVersions": {
