@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-08T21:53:30Z",
-  "seq": 91,
+  "issued": "2026-11-09T00:56:49Z",
+  "seq": 92,
   "latest": {
-    "launcher": "3.98",
-    "client": "3.98"
+    "launcher": "3.99",
+    "client": "3.99"
   },
-  "notes": "EQC 3.98: closer to the original (zone unavailable, loading screen, animations, sound, containers, fonts)",
+  "notes": "EQC 3.99: original-bank music (gm.dls), particle On For fix, Options wording/spacing",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.98/EQC-3.98.apk",
-      "sha256": "e4ecece4ba67fecc6713b33688e288ed4596ec85772f7cc79b26c7f6d88f471b",
-      "size": 37721437
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v3.99/EQC-3.99.apk",
+      "sha256": "212a02d4f3b7b6330944a0ed21d07b8b60752b1be88c824c206dc94e78b56eb6",
+      "size": 37722045
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.98/EQC-Launcher-Setup-3.98.exe",
-      "sha256": "04eb13e6309dc8ec0f4387a51869842462667bda5306dbc453a46218e7dd64b5",
-      "size": 44194623
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v3.99/EQC-Launcher-Setup-3.99.exe",
+      "sha256": "7dedf5d67c9fff2185cc439cf120f7b0a33da3c178bf4ce7f7a7e973237c2ffd",
+      "size": 44216288
     }
   },
   "minVersions": {
