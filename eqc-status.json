@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T14:47:35Z",
-  "seq": 112,
+  "issued": "2026-11-10T16:02:19Z",
+  "seq": 113,
   "latest": {
-    "launcher": "4.12",
+    "launcher": "4.13",
     "client": "4.12"
   },
-  "notes": "EQC 4.12: Touch window order and moves, thumb controls one height",
+  "notes": "EQC 4.13: selector buttons and size, Songs/Effects, plates near the minimap",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.12/EQC-4.12.apk",
-      "sha256": "751027e7508af07b969c3bdd9340723ea90b764317039a4e015c9b59c5aeee0d",
-      "size": 37779417
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.13/EQC-4.13.apk",
+      "sha256": "af5321f393ec15e1e966f076dc80bef9e41c1e0824c9248ba96ee72a7522d108",
+      "size": 37779545
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.12/EQC-Launcher-Setup-4.12.exe",
-      "sha256": "f79163b59fe42f77f481868ca0bd2df8d2c83cce832bc7d3a8e66c77be0f4ccc",
-      "size": 44227044
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.13/EQC-Launcher-Setup-4.13.exe",
+      "sha256": "6dd1d757056781e778879f8ea871454a8d1498f5dca25fe66cba95381f9e9ffa",
+      "size": 44225805
     }
   },
   "minVersions": {
