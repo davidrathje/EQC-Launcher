@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T10:48:57Z",
-  "seq": 107,
+  "issued": "2026-11-10T10:49:24Z",
+  "seq": 108,
   "latest": {
     "launcher": "4.10",
-    "client": "4.09"
+    "client": "4.10"
   },
   "notes": "4.10: plates at the model top, square D-pad with black text, Spellbook move and spell swap, creation help window, Velious windows movable, QR Cancel on Android, no package folder in logs.",
   "assets": {
