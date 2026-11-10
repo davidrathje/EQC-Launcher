@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T14:47:18Z",
-  "seq": 111,
+  "issued": "2026-11-10T14:47:35Z",
+  "seq": 112,
   "latest": {
     "launcher": "4.12",
-    "client": "4.11"
+    "client": "4.12"
   },
   "notes": "EQC 4.12: Touch window order and moves, thumb controls one height",
   "assets": {
