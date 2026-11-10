@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T07:42:38Z",
-  "seq": 103,
+  "issued": "2026-11-10T08:50:50Z",
+  "seq": 104,
   "latest": {
-    "launcher": "4.08",
+    "launcher": "4.09",
     "client": "4.08"
   },
-  "notes": "4.08: Character Select name never behind the window or off screen; Touch character creation windows no longer overlap; option labels in one format.",
+  "notes": "4.09: Touch nameplate gap, windows reach the screen edges, earlier sizes for Spellbook/Inventory/gems, Interface size on release, Extra hotbar on Touch (Pomica/Dev), Menu title and icon.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.08/EQC-4.08.apk",
-      "sha256": "974f3631dbddd84a0c8155335feaa55f5efe501259cfb079cc3c845c9d76f5d7",
-      "size": 37742925
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.09/EQC-4.09.apk",
+      "sha256": "ef1a51dad9ea359a1e61112ebe735886a090481bef4aac45e5301aee96b12461",
+      "size": 37750189
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.08/EQC-Launcher-Setup-4.08.exe",
-      "sha256": "88afeae66818845298d8bea1a26a4001cad87d2cd3633a8dd414118c3a390380",
-      "size": 44215803
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.09/EQC-Launcher-Setup-4.09.exe",
+      "sha256": "7d92b93757c9b04631b24159d1aaae1313ec7d6ded7d4136dab7da7e2fb36d6b",
+      "size": 44218599
     }
   },
   "minVersions": {
