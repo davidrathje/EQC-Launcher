@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T16:02:38Z",
-  "seq": 114,
+  "issued": "2026-11-10T18:27:20Z",
+  "seq": 115,
   "latest": {
-    "launcher": "4.13",
+    "launcher": "4.14",
     "client": "4.13"
   },
-  "notes": "EQC 4.13: selector buttons and size, Songs/Effects, plates near the minimap",
+  "notes": "EQC 4.14: era spell levels (Drain Soul), untargeted spells, Inspect beside the inventory",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.13/EQC-4.13.apk",
-      "sha256": "af5321f393ec15e1e966f076dc80bef9e41c1e0824c9248ba96ee72a7522d108",
-      "size": 37779545
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.14/EQC-4.14.apk",
+      "sha256": "93a623bdfcc4391272248f67729d07ea640aa254460741d1b40171f9657ce686",
+      "size": 37780585
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.13/EQC-Launcher-Setup-4.13.exe",
-      "sha256": "6dd1d757056781e778879f8ea871454a8d1498f5dca25fe66cba95381f9e9ffa",
-      "size": 44225805
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.14/EQC-Launcher-Setup-4.14.exe",
+      "sha256": "544416fc5be19be1bfa65304ead3c058936c95777a4ca8cea8504f87918defa4",
+      "size": 44227887
     }
   },
   "minVersions": {
