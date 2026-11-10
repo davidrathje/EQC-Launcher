@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T10:32:01Z",
-  "seq": 105,
+  "issued": "2026-11-10T10:32:34Z",
+  "seq": 106,
   "latest": {
     "launcher": "4.09",
-    "client": "4.10"
+    "client": "4.09"
   },
   "notes": "4.09: Touch nameplate gap, windows reach the screen edges, earlier sizes for Spellbook/Inventory/gems, Interface size on release, Extra hotbar on Touch (Pomica/Dev), Menu title and icon.",
   "assets": {
