@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T10:32:34Z",
-  "seq": 106,
+  "issued": "2026-11-10T10:48:57Z",
+  "seq": 107,
   "latest": {
-    "launcher": "4.09",
+    "launcher": "4.10",
     "client": "4.09"
   },
-  "notes": "4.09: Touch nameplate gap, windows reach the screen edges, earlier sizes for Spellbook/Inventory/gems, Interface size on release, Extra hotbar on Touch (Pomica/Dev), Menu title and icon.",
+  "notes": "4.10: plates at the model top, square D-pad with black text, Spellbook move and spell swap, creation help window, Velious windows movable, QR Cancel on Android, no package folder in logs.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.09/EQC-4.09.apk",
-      "sha256": "ef1a51dad9ea359a1e61112ebe735886a090481bef4aac45e5301aee96b12461",
-      "size": 37750189
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.10/EQC-4.10.apk",
+      "sha256": "2a330a876238e0bc8050a0819415d1c916f19e187c2b09c884168b3f73c58cab",
+      "size": 37755065
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.09/EQC-Launcher-Setup-4.09.exe",
-      "sha256": "7d92b93757c9b04631b24159d1aaae1313ec7d6ded7d4136dab7da7e2fb36d6b",
-      "size": 44218599
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.10/EQC-Launcher-Setup-4.10.exe",
+      "sha256": "209df790696e9e8a8ee5a462e03254ae8ee6660a40a855b8908f1a3e7a1bf533",
+      "size": 44220308
     }
   },
   "minVersions": {
