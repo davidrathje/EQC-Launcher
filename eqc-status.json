@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-09T16:26:14Z",
-  "seq": 96,
+  "issued": "2026-11-10T01:23:00Z",
+  "seq": 97,
   "latest": {
-    "launcher": "4.04",
+    "launcher": "4.05",
     "client": "4.04"
   },
-  "notes": "4.04: target ring no longer shimmers; iOS Exit game closes the app (no black screen); modal login exit question; phones keep the chat window size; the connect welcome sits on the loading bar; floating numbers two units larger than words.",
+  "notes": "4.05: name and HP/mana bars sit just above the head again (players and NPCs match); the Window Selector can't be dragged off-screen on touch; the in-world menu is titled Menu with a proper title bar.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.04/EQC-4.04.apk",
-      "sha256": "352a11c9e4b488440391026967c333bde47f35e3a7cac09cace549b8286b781b",
-      "size": 37739469
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.05/EQC-4.05.apk",
+      "sha256": "2bfad92ab5b5747fa4cff6d1e29527ec8d741fc6dd1528d3ab9bc49a7caf7174",
+      "size": 37739853
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.04/EQC-Launcher-Setup-4.04.exe",
-      "sha256": "d09bc69bdf6895475ada2f7beff7ee57e10de168d10e9998689e08d1af0be073",
-      "size": 44213277
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.05/EQC-Launcher-Setup-4.05.exe",
+      "sha256": "e2b829c4e3f99618020d26980b2a0782f149659a80b416d136d048acf1c60074",
+      "size": 44215304
     }
   },
   "minVersions": {
