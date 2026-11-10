@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T05:09:35Z",
-  "seq": 99,
+  "issued": "2026-11-10T07:00:06Z",
+  "seq": 100,
   "latest": {
-    "launcher": "4.06",
+    "launcher": "4.07",
     "client": "4.06"
   },
-  "notes": "4.06: desktop left-click targets and right-click opens merchants/bank again; after a wrong login the typed name stays; the Menu has a Help item that runs /help.",
+  "notes": "4.07: login EXIT text on a fresh start; Touch: Window Selector always shown, windows keep their size when the chat moves, one tap opens the chat input; no level on nameplates (Pomica/Dev option for NPC level).",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.06/EQC-4.06.apk",
-      "sha256": "4c7bd1d4d37019c2fed7dcf801caf160f624cb185c10edffc3389638f6168421",
-      "size": 37739785
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.07/EQC-4.07.apk",
+      "sha256": "594b57048ee81671ece714ba81b043714cdedbc0ba56d4a19010cdd4ad95b9ae",
+      "size": 37741453
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.06/EQC-Launcher-Setup-4.06.exe",
-      "sha256": "5d8cc78fab8344a7d538d08529fc5654b8277e702154b958ce46a11880fcf235",
-      "size": 44215363
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.07/EQC-Launcher-Setup-4.07.exe",
+      "sha256": "6bad3f871846ea21a6d55cd4b50a6ffa25297cf9066b6d5f5fddf5bcc0dfed2b",
+      "size": 44216357
     }
   },
   "minVersions": {
