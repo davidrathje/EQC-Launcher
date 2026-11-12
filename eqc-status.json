@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-12T12:17:17Z",
-  "seq": 119,
+  "issued": "2026-11-12T17:01:29Z",
+  "seq": 120,
   "latest": {
     "launcher": "4.17",
-    "client": "4.15"
+    "client": "4.17"
   },
   "notes": "4.17: beta keys required",
   "assets": {
