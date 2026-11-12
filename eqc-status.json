@@ -2,29 +2,30 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-10T19:10:31Z",
-  "seq": 118,
+  "issued": "2026-11-12T12:17:17Z",
+  "seq": 119,
   "latest": {
-    "launcher": "4.15",
+    "launcher": "4.17",
     "client": "4.15"
   },
-  "notes": "EQC 4.15: close boxes on Touch, login name after a refused login",
+  "notes": "4.17: beta keys required",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.15/EQC-4.15.apk",
-      "sha256": "2ccfa3e770afb1e11abb24f4f064f8eb2c3afe65f94886028817d41cb652fabe",
-      "size": 37780969
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.17/EQC-4.17.apk",
+      "sha256": "807b91786eab5698a0902de27809d7ea3e24d46e6bc19a39b7345bc69c84f244",
+      "size": 37861993
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.15/EQC-Launcher-Setup-4.15.exe",
-      "sha256": "0e3c5c2cb4f8731605966f9eb8902f3492a49316415b64e0fcf5edd7e24fef59",
-      "size": 44227530
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.17/EQC-Launcher-Setup-4.17.exe",
+      "sha256": "235799de1b0c5c38c214cb8eff1cfd5324d39589971d029051704cca8488ef62",
+      "size": 44324773
     }
   },
   "minVersions": {
-    "windows": "3.66",
-    "android": "3.66",
+    "windows": "4.17",
+    "android": "4.17",
     "ios": "3.66",
-    "macos": "3.50"
+    "macos": "3.50",
+    "browser": "4.17"
   }
 }
