@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-12T18:55:55Z",
-  "seq": 121,
+  "issued": "2026-11-12T20:18:39Z",
+  "seq": 122,
   "latest": {
-    "launcher": "4.18",
-    "client": "4.18"
+    "launcher": "4.19",
+    "client": "4.19"
   },
-  "notes": "4.18: touch camera, delete last character",
+  "notes": "4.19: spell particles after zoning, touch strafe, Velious select",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.18/EQC-4.18.apk",
-      "sha256": "3cc6e3b95de4042685f16284d0bcf75e3f6871bfcf5498fc4d3b96d10f0760a5",
-      "size": 37861417
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.19/EQC-4.19.apk",
+      "sha256": "09c9c7102469c66d2420af33b19446e416806da31ec8f1cbbbbd72ff53aa431e",
+      "size": 37878473
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.18/EQC-Launcher-Setup-4.18.exe",
-      "sha256": "958cd8bdf06785fe9c7382023fd7fae5f510681b99de7f463aa7c813c7c95ecd",
-      "size": 44324913
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.19/EQC-Launcher-Setup-4.19.exe",
+      "sha256": "1e361e8d5a078a385d8ba993efe3f8fb0d2b5742ba2b0f0397722ee374fa1cad",
+      "size": 44323643
     }
   },
   "minVersions": {
