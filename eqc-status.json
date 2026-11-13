@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-13T17:32:25Z",
-  "seq": 124,
+  "issued": "2026-11-13T18:36:42Z",
+  "seq": 125,
   "latest": {
-    "launcher": "4.21",
-    "client": "4.21"
+    "launcher": "4.22",
+    "client": "4.22"
   },
-  "notes": "Touch character creation without overlapping windows; Velious Character Select at the skin's size",
+  "notes": "Touch: Merchant, Bank, Trade and Give windows move again",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.21/EQC-4.21.apk",
-      "sha256": "3aabd022ade861523dc30ba348fc43dd76acd0d5ecd11318d97430a3f5ad3f56",
-      "size": 37880585
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.22/EQC-4.22.apk",
+      "sha256": "d91d289b218fa6e48e1e36fdb6f3370586874bf4844d526acf13509a7a5700f3",
+      "size": 37882009
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.21/EQC-Launcher-Setup-4.21.exe",
-      "sha256": "7ac7ff411f9a192cbdaa10fdabdb8738ac409c2ba19ec6d2d7c2b39dd7b457d2",
-      "size": 44327300
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.22/EQC-Launcher-Setup-4.22.exe",
+      "sha256": "b06ad2b593d5f20efdd78c1ff19c118638f1e0953ad355e7bad2501943ef06c9",
+      "size": 44324278
     }
   },
   "minVersions": {
