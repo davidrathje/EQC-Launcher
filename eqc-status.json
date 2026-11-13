@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-13T07:47:28Z",
-  "seq": 123,
+  "issued": "2026-11-13T17:32:25Z",
+  "seq": 124,
   "latest": {
-    "launcher": "4.20",
-    "client": "4.20"
+    "launcher": "4.21",
+    "client": "4.21"
   },
-  "notes": "4.20: blindness blacks out the screen",
+  "notes": "Touch character creation without overlapping windows; Velious Character Select at the skin's size",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.20/EQC-4.20.apk",
-      "sha256": "e84dc506ac90f78b8709b36b5c7e84570e336f5d31b7f34d98209c0912ccb4ef",
-      "size": 37879177
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.21/EQC-4.21.apk",
+      "sha256": "3aabd022ade861523dc30ba348fc43dd76acd0d5ecd11318d97430a3f5ad3f56",
+      "size": 37880585
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.20/EQC-Launcher-Setup-4.20.exe",
-      "sha256": "552eb47ad15342ecde77f48be185fac00a6746afb3ae2047a0c77fc929c0df25",
-      "size": 44327104
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.21/EQC-Launcher-Setup-4.21.exe",
+      "sha256": "7ac7ff411f9a192cbdaa10fdabdb8738ac409c2ba19ec6d2d7c2b39dd7b457d2",
+      "size": 44327300
     }
   },
   "minVersions": {
