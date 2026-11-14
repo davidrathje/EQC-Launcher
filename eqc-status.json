@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-13T18:36:42Z",
-  "seq": 125,
+  "issued": "2026-11-14T21:37:27Z",
+  "seq": 126,
   "latest": {
-    "launcher": "4.22",
+    "launcher": "4.23",
     "client": "4.22"
   },
-  "notes": "Touch: Merchant, Bank, Trade and Give windows move again",
+  "notes": "4.23: ladders climb like the original; no more getting stuck in walls; launcher key manager fixes",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.22/EQC-4.22.apk",
-      "sha256": "d91d289b218fa6e48e1e36fdb6f3370586874bf4844d526acf13509a7a5700f3",
-      "size": 37882009
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.23/EQC-4.23.apk",
+      "sha256": "6e928106474ec0960e2ae4f87cb5b72c6ef3953dec31df7d9fe14e418b4a0528",
+      "size": 37958793
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.22/EQC-Launcher-Setup-4.22.exe",
-      "sha256": "b06ad2b593d5f20efdd78c1ff19c118638f1e0953ad355e7bad2501943ef06c9",
-      "size": 44324278
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.23/EQC-Launcher-Setup-4.23.exe",
+      "sha256": "378351d74e88a3748254bfa046076a0c0cb0f25692221579170526c75400cdba",
+      "size": 44347464
     }
   },
   "minVersions": {
