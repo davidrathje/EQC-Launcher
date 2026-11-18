@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-14T21:37:50Z",
-  "seq": 127,
+  "issued": "2026-11-18T16:15:39Z",
+  "seq": 128,
   "latest": {
-    "launcher": "4.23",
+    "launcher": "4.24",
     "client": "4.23"
   },
-  "notes": "4.23: ladders climb like the original; no more getting stuck in walls; launcher key manager fixes",
+  "notes": "4.24: EQC menu keeps autorun; full map zoom/pan/close fixed; desktop and browser access per key",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.23/EQC-4.23.apk",
-      "sha256": "6e928106474ec0960e2ae4f87cb5b72c6ef3953dec31df7d9fe14e418b4a0528",
-      "size": 37958793
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.24/EQC-4.24.apk",
+      "sha256": "b3a9fcae717e86ec342abfb45c986aad877b47dd37ce7b4b41c123e8aabd7e41",
+      "size": 37961673
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.23/EQC-Launcher-Setup-4.23.exe",
-      "sha256": "378351d74e88a3748254bfa046076a0c0cb0f25692221579170526c75400cdba",
-      "size": 44347464
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.24/EQC-Launcher-Setup-4.24.exe",
+      "sha256": "230879821618893586257393d3b856509f2f0c7e6f5c6de4910f47f7480f78d7",
+      "size": 44356162
     }
   },
   "minVersions": {
