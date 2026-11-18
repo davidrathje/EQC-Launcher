@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-18T16:15:39Z",
-  "seq": 128,
+  "issued": "2026-11-18T16:16:04Z",
+  "seq": 129,
   "latest": {
     "launcher": "4.24",
-    "client": "4.23"
+    "client": "4.24"
   },
   "notes": "4.24: EQC menu keeps autorun; full map zoom/pan/close fixed; desktop and browser access per key",
   "assets": {
