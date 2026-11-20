@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-20T17:44:40Z",
-  "seq": 136,
+  "issued": "2026-11-20T20:11:37Z",
+  "seq": 137,
   "latest": {
-    "launcher": "4.28",
+    "launcher": "4.29",
     "client": "4.28"
   },
-  "notes": "4.28: Touch item drag and item hotbutton taps",
+  "notes": "4.29: chat item links, combat music volume, Stand while feigning",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.28/EQC-4.28.apk",
-      "sha256": "4e5eeabd55b480cb7620b8af3642ac3b036845cda2a509da14d3c0b63f899495",
-      "size": 38197677
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.29/EQC-4.29.apk",
+      "sha256": "db04cdcfbeff981501b6ffd01da9fdf9b9106ac9fc6982ffda80695b80b28104",
+      "size": 38199949
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.28/EQC-Launcher-Setup-4.28.exe",
-      "sha256": "c4cfa924a1859afd1ad838de3f9c78ede3bfa4cfc1cafad36d912b9f1fe84cc6",
-      "size": 44401812
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.29/EQC-Launcher-Setup-4.29.exe",
+      "sha256": "8b46c755eeb3833a97095c214c2c514c7feb678be11651419edf8ad689b5915b",
+      "size": 44403432
     }
   },
   "minVersions": {
