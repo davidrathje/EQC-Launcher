@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-18T16:16:04Z",
-  "seq": 129,
+  "issued": "2026-11-20T11:53:55Z",
+  "seq": 130,
   "latest": {
-    "launcher": "4.24",
+    "launcher": "4.25",
     "client": "4.24"
   },
-  "notes": "4.24: EQC menu keeps autorun; full map zoom/pan/close fixed; desktop and browser access per key",
+  "notes": "4.25: weapons and held items at the original size (Staff of the Serpent, torch)",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.24/EQC-4.24.apk",
-      "sha256": "b3a9fcae717e86ec342abfb45c986aad877b47dd37ce7b4b41c123e8aabd7e41",
-      "size": 37961673
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.25/EQC-4.25.apk",
+      "sha256": "1116da112870c9bdb9123dfefce87b1f836bd0e92e3763f2a01a461aa08d8008",
+      "size": 37961677
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.24/EQC-Launcher-Setup-4.24.exe",
-      "sha256": "230879821618893586257393d3b856509f2f0c7e6f5c6de4910f47f7480f78d7",
-      "size": 44356162
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.25/EQC-Launcher-Setup-4.25.exe",
+      "sha256": "33797780746f31f2575e501bc6ee59957892bc07b504580adbd09322385f6c7e",
+      "size": 44358450
     }
   },
   "minVersions": {
