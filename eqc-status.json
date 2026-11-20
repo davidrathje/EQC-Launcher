@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-20T21:42:21Z",
-  "seq": 139,
+  "issued": "2026-11-20T22:44:21Z",
+  "seq": 140,
   "latest": {
-    "launcher": "4.29",
+    "launcher": "4.30",
     "client": "4.29"
   },
-  "notes": "4.29: chat item links, combat music volume, Stand while feigning",
+  "notes": "4.30: key manager Delete, layout and sharp Launcher text",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.29/EQC-4.29.apk",
-      "sha256": "db04cdcfbeff981501b6ffd01da9fdf9b9106ac9fc6982ffda80695b80b28104",
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.30/EQC-4.30.apk",
+      "sha256": "a701fe01b51f02c5ff37958c29c0019a96583a4ab8cc0787f4f13a84a8eb8c06",
       "size": 38199949
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.29/EQC-Launcher-Setup-4.29.exe",
-      "sha256": "8b46c755eeb3833a97095c214c2c514c7feb678be11651419edf8ad689b5915b",
-      "size": 44403432
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.30/EQC-Launcher-Setup-4.30.exe",
+      "sha256": "c8c7eac74997a7074081127ccc3e6da6c8fe729d8188778fa4407939b4c1b7d9",
+      "size": 44405557
     }
   },
   "minVersions": {
