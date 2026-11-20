@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-20T15:07:50Z",
-  "seq": 133,
+  "issued": "2026-11-20T16:52:47Z",
+  "seq": 134,
   "latest": {
-    "launcher": "4.26",
+    "launcher": "4.27",
     "client": "4.26"
   },
-  "notes": "4.26: 71 behaviours checked against the original client and fixed",
+  "notes": "4.27: scroll bars, window resizing, guild and boats as the original",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.26/EQC-4.26.apk",
-      "sha256": "3f947125832d80f553f6d7a2a256252953f73df8aaf7f41c71a96ad133775a0c",
-      "size": 38164793
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.27/EQC-4.27.apk",
+      "sha256": "1f27e9e6eb7745fabe4b40479c693b9e43caccb61f088f43026ebb2d73262b5e",
+      "size": 38196093
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.26/EQC-Launcher-Setup-4.26.exe",
-      "sha256": "338f239dde909f0aae1804a88f221ba28d5bd5830af08f3b628d38c7f7d88df4",
-      "size": 44397281
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.27/EQC-Launcher-Setup-4.27.exe",
+      "sha256": "332689c37750d1d6d75a5ba088790610b924c0d7c0eacccf7dca077b4e1192fe",
+      "size": 44395450
     }
   },
   "minVersions": {
