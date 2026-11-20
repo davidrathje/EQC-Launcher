@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-20T22:44:21Z",
-  "seq": 140,
+  "issued": "2026-11-20T22:55:47Z",
+  "seq": 141,
   "latest": {
     "launcher": "4.30",
-    "client": "4.29"
+    "client": "4.30"
   },
   "notes": "4.30: key manager Delete, layout and sharp Launcher text",
   "assets": {
