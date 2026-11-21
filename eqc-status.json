@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-21T10:14:58Z",
-  "seq": 142,
+  "issued": "2026-11-21T10:15:24Z",
+  "seq": 143,
   "latest": {
     "launcher": "4.31",
-    "client": "4.30"
+    "client": "4.31"
   },
   "notes": "4.31: Iksar robes, NPC dressing, hotbutton text, chat links, Tracking beside the inventory",
   "assets": {
