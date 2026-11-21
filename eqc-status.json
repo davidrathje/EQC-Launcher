@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-21T19:22:13Z",
-  "seq": 145,
+  "issued": "2026-11-21T20:54:12Z",
+  "seq": 146,
   "latest": {
-    "launcher": "4.32",
+    "launcher": "4.33",
     "client": "4.32"
   },
-  "notes": "Tracking like the original, PvP buff durations, sell from bags on Touch, window resize while typing",
+  "notes": "Clean item icon edges, Touch double tap cons NPCs and players",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.32/EQC-4.32.apk",
-      "sha256": "fd4d482344e5da9bced643feee037f19a4fe23da5b614420fda8bb0cf9c997d5",
-      "size": 38226377
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.33/EQC-4.33.apk",
+      "sha256": "90bb68a4098eb2859af0acea869edeeb098ecbb24e97406c37767a1748a179a9",
+      "size": 38228265
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.32/EQC-Launcher-Setup-4.32.exe",
-      "sha256": "10a87fa1b1e423ceb27a7b295616c10aac81ceaca967feae14a3a2e561a3facd",
-      "size": 44415475
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.33/EQC-Launcher-Setup-4.33.exe",
+      "sha256": "d21c9281ec13076b527dfee3c0253f62fb7168de5605f8f8a9ca889807da2151",
+      "size": 44418068
     }
   },
   "minVersions": {
