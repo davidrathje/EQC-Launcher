@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-22T00:53:32Z",
-  "seq": 149,
+  "issued": "2026-11-22T22:27:56Z",
+  "seq": 150,
   "latest": {
-    "launcher": "4.34",
+    "launcher": "4.35",
     "client": "4.34"
   },
-  "notes": "Classic elemental models (magician epic pet)",
+  "notes": "Vendor sell frame, Levitate recast, Enter at Character Select, combat text over your own character, NPCs stay on the map.",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.34/EQC-4.34.apk",
-      "sha256": "5e0b9741c32d302d16672b606dbbc4693564e4ba055d0fe03a9f381ade0207b1",
-      "size": 38229065
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.35/EQC-4.35.apk",
+      "sha256": "f5efacc4e4ce9f9d095a94a4665bc95c38a4f68ec4b7545e73df0cb37e7f964e",
+      "size": 38232505
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.34/EQC-Launcher-Setup-4.34.exe",
-      "sha256": "3ff71eb479d6867b572239440d808c76db0c7dceef4d6757997122b3aa87ee28",
-      "size": 44415997
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.35/EQC-Launcher-Setup-4.35.exe",
+      "sha256": "164074fecc6b3ed6b938b9e388a8cf5fcd2152002b01101835ddd5eb988f69d0",
+      "size": 44413591
     }
   },
   "minVersions": {
