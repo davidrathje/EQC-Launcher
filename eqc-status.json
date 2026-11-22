@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-22T22:27:56Z",
-  "seq": 150,
+  "issued": "2026-11-22T22:28:35Z",
+  "seq": 151,
   "latest": {
     "launcher": "4.35",
-    "client": "4.34"
+    "client": "4.35"
   },
   "notes": "Vendor sell frame, Levitate recast, Enter at Character Select, combat text over your own character, NPCs stay on the map.",
   "assets": {
