@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-23T00:37:11Z",
-  "seq": 153,
+  "issued": "2026-11-23T09:45:41Z",
+  "seq": 154,
   "latest": {
-    "launcher": "4.36",
+    "launcher": "4.37",
     "client": "4.36"
   },
-  "notes": "Inspect outline, spellbook names, /loadskin while looting, levitation at the water surface, tree canopies.",
+  "notes": "Map name filter ignores case and underscores; name-rejected OK works; launcher lists over the key manager",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.36/EQC-4.36.apk",
-      "sha256": "36961f7c2c68d8e557b9152ef2219c49336cd9ced886a5e1cc1d3cb8c23face1",
-      "size": 38257561
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.37/EQC-4.37.apk",
+      "sha256": "387bc3e264a5456d0c4c8df88eeb0be31e768fc293a680a2c1766ea9ba88e1e3",
+      "size": 38258109
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.36/EQC-Launcher-Setup-4.36.exe",
-      "sha256": "655150189921289b6dfa37e48c7b5ccbb5216aba5ce04ae348ffbb98be79e20b",
-      "size": 44419454
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.37/EQC-Launcher-Setup-4.37.exe",
+      "sha256": "3c7cd6d48436c42164e1e4a57232ec1240024870b655bd1740fddd278018da0b",
+      "size": 44420252
     }
   },
   "minVersions": {
