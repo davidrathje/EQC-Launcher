@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-23T09:45:41Z",
-  "seq": 154,
+  "issued": "2026-11-23T09:46:08Z",
+  "seq": 155,
   "latest": {
     "launcher": "4.37",
-    "client": "4.36"
+    "client": "4.37"
   },
   "notes": "Map name filter ignores case and underscores; name-rejected OK works; launcher lists over the key manager",
   "assets": {
