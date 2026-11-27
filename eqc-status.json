@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-27T11:38:40Z",
-  "seq": 158,
+  "issued": "2026-11-27T11:39:06Z",
+  "seq": 159,
   "latest": {
     "launcher": "4.39",
-    "client": "4.38"
+    "client": "4.39"
   },
   "notes": "Freeport vision: NPC skeletons drawn as humans wear their equipped armour",
   "assets": {
