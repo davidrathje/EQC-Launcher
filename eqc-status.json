@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-27T11:39:06Z",
-  "seq": 159,
+  "issued": "2026-11-27T21:32:22Z",
+  "seq": 160,
   "latest": {
-    "launcher": "4.39",
+    "launcher": "4.40",
     "client": "4.39"
   },
-  "notes": "Freeport vision: NPC skeletons drawn as humans wear their equipped armour",
+  "notes": "Armour colours from your worn items, combat text in the nameplate font, camp logging",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.39/EQC-4.39.apk",
-      "sha256": "58f27b990f786f97b5b399080d956a6c5ac9a426e2e265c0044ad74a455ca4d7",
-      "size": 38258297
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.40/EQC-4.40.apk",
+      "sha256": "f6762f99f9d4700815a860f7fe25b7957bbac3b84ede2677dc88d4e58cb5e9cf",
+      "size": 38262233
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.39/EQC-Launcher-Setup-4.39.exe",
-      "sha256": "aad1a32bf74073f6da8ab2d05d66f121bfd154fe360f6c49a27cc6e18d7966c7",
-      "size": 44420945
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.40/EQC-Launcher-Setup-4.40.exe",
+      "sha256": "82d653dbda9984dd578a39b21d6bf7f6b9e9723fc71c0faa2a2e56ef717e0778",
+      "size": 44416444
     }
   },
   "minVersions": {
