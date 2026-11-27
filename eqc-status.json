@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-27T00:17:24Z",
-  "seq": 156,
+  "issued": "2026-11-27T00:17:52Z",
+  "seq": 157,
   "latest": {
     "launcher": "4.38",
-    "client": "4.37"
+    "client": "4.38"
   },
   "notes": "Worn Enduring Breath and infra/ultravision work, gem cast with an item on the cursor, summoned target's nameplate, Freeport vision armour",
   "assets": {
