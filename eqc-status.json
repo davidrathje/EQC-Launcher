@@ -2,11 +2,11 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-27T21:32:22Z",
-  "seq": 160,
+  "issued": "2026-11-27T21:32:44Z",
+  "seq": 161,
   "latest": {
     "launcher": "4.40",
-    "client": "4.39"
+    "client": "4.40"
   },
   "notes": "Armour colours from your worn items, combat text in the nameplate font, camp logging",
   "assets": {
