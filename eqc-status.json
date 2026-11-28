@@ -2,23 +2,23 @@
   "v": 1,
   "enabled": true,
   "message": "This version is no longer supported. Download the latest EQC from https://github.com/davidrathje/EQC-Launcher/releases",
-  "issued": "2026-11-27T22:42:38Z",
-  "seq": 163,
+  "issued": "2026-11-28T06:37:49Z",
+  "seq": 164,
   "latest": {
-    "launcher": "4.41",
+    "launcher": "4.42",
     "client": "4.41"
   },
-  "notes": "Combat text in first person, armour colour logging",
+  "notes": "Rez window after zoning, dwarf left-hand weapon size, torch size, looted NPC robe",
   "assets": {
     "android": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.41/EQC-4.41.apk",
-      "sha256": "c7da1277d16b8662b9175696ac21de6295c419e8c156b018e2a727d2f3af677c",
-      "size": 38263065
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/android-v4.42/EQC-4.42.apk",
+      "sha256": "93fe3f580061930d6faf8f19c7ae832d4a996380b2414fffa823e9c6aae9beb7",
+      "size": 38269577
     },
     "launcher-windows-x64": {
-      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.41/EQC-Launcher-Setup-4.41.exe",
-      "sha256": "fe3d3fd52d414513af1129a359df8b73ef368e47fcee6caaf308e12320d64c45",
-      "size": 44419266
+      "url": "https://github.com/davidrathje/EQC-Launcher/releases/download/v4.42/EQC-Launcher-Setup-4.42.exe",
+      "sha256": "64d26b4b882cd6e5860f3da85dfe817eeddd90013acfdb8890582d9e7d1af792",
+      "size": 44427009
     }
   },
   "minVersions": {
